@@ -12,3 +12,7 @@ accelerate==0.21.0
 openai==0.27.8
 tiktoken==0.4.0
 anthropic==0.3.4
+
+rouge_score
+nltk
+transformers==4.11.3

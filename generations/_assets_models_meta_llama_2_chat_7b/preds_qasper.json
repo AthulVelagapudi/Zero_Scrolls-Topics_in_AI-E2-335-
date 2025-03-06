@@ -1,0 +1,3 @@
+{
+    "3fad42be0fb2052bb404b989cc7d58b440cd23a0": "The article compares the performance of their proposed approach with two rule-based baselines: Unif and Stopword. Unif encoder randomly keeps tokens to generate keywords with the probability $\\delta $. Stopword encoder keeps all tokens but drops stop words (e.g. `the', `a', `or') all the time ($\\delta =0$) or half of the time ($\\delta =0.5$)."
+}

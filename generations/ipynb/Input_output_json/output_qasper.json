@@ -1,0 +1,21 @@
+{
+    "3fad42be0fb2052bb404b989cc7d58b440cd23a0": "Unif and Stopword",
+    "8bf7f1f93d0a2816234d36395ab40c481be9a0e0": "No",
+    "0f12dc077fe8e5b95ca9163cea1dd17195c96929": "generated with the various combinations of INLINEFORM4 person INLINEFORM5 and INLINEFORM6 emotion word INLINEFORM7 values across the eleven templates, differ only in one word corresponding to gender or race",
+    "518dae6f936882152c162058895db4eca815e649": "eight layers",
+    "58ef2442450c392bfc55c4dc35f216542f5f2dbb": "No",
+    "290ee79b5e3872e0496a6a0fc9b103ab7d8f6c30": "Level A: Offensive language Detection\n, Level B: Categorization of Offensive Language\n, Level C: Offensive Language Target Identification\n",
+    "ab9b0bde6113ffef8eb1c39919d21e5913a05081": "Combining  pattern based and Machine translation approaches gave the best overall F0.5 scores. It was 49.11 for FCE dataset  , 21.87 for the first annotation of  CoNLL-14, and 30.13 for the second annotation of CoNLL-14. ",
+    "ff338921e34c15baf1eae0074938bf79ee65fdd2": "by answering always YES (in batch 2 and 3) ",
+    "1b1a30e9e68a9ae76af467e60cefb180d135e285": "353 conversations from 40 speakers (11 nurses, 16 patients, and 13 caregivers), we build templates and expression pools using linguistic analysis",
+    "dea9e7fe8e47da5e7f31d9b1a46ebe34e731a596": "Classification system use n-grams, bag-of-words, common words and hashtags as features and SVM, random forest, extra tree and NB classifiers.",
+    "3355918bbdccac644afe441f085d0ffbbad565d7": "(+1 or -1), words of opposite polarities (e.g. \u201chappy\" and \u201cunhappy\") get far away from each other",
+    "d9980676a83295dda37c20cfd5d58e574d0a4859": "copy, copy-marked, copy-dummies",
+    "79a44a68bb57b375d8a57a0a7f522d33476d9f33": "Relation Generation (RG), Content Selection (CS), Content Ordering (CO)",
+    "76ed74788e3eb3321e646c48ae8bf6cdfe46dca1": "POS, gender/number and stem POS",
+    "8e52637026bee9061f9558178eaec08279bf7ac6": "machine translation platform Apertium BIBREF5",
+    "3116453e35352a3a90ee5b12246dc7f2e60cfc59": "support vector machine classifier (SVM), logistic regression classifier (LR), Naive Bayes classifier (NB), random forest (RF), CNN, LSTM , LSTM-soft, LSTM-self",
+    "4e748cb2b5e74d905d9b24b53be6cfdf326e8054": "unanswerable",
+    "b970f48d30775d3468952795bc72976baab3438e": "identifying the questions we wish to explore, Can text analysis provide a new perspective on a \u201cbig question\u201d that has been attracting interest for years?, How can we explain what we observe?, hope to connect to multiple disciplines",
+    "c70bafc35e27be9d1efae60596bc0dd390c124c0": "Yes"
+}

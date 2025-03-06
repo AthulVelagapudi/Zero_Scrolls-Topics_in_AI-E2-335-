@@ -1,0 +1,21 @@
+{
+    "3fad42be0fb2052bb404b989cc7d58b440cd23a0": "The article does not provide information on the baselines used.",
+    "8bf7f1f93d0a2816234d36395ab40c481be9a0e0": "Yes, the authors also analyze transformer-based architectures.",
+    "0f12dc077fe8e5b95ca9163cea1dd17195c96929": "Unanswerable.",
+    "518dae6f936882152c162058895db4eca815e649": "Unanswerable. The article does not provide information about the number of layers in the UTCNN model.",
+    "58ef2442450c392bfc55c4dc35f216542f5f2dbb": "Yes, the paper provides case studies for various CIS tasks, such as conversational search, conversational question answering, and conversational recommendation, to illustrate how one can use Macaw for CIS research.",
+    "290ee79b5e3872e0496a6a0fc9b103ab7d8f6c30": "The three layers of the annotation scheme are:\n\n1. Explicit language: This layer is the most important layer as it is the only one that deals with explicit language.\n\n2. Implicit language: This layer is the second layer as it deals with implicit language.\n\n3. Explicit language: This layer is the third layer as it deals with explicit language.",
+    "ab9b0bde6113ffef8eb1c39919d21e5913a05081": "The article does not provide information on the results of the two datasets.",
+    "ff338921e34c15baf1eae0074938bf79ee65fdd2": "The baseline model used in BioASQ is Bidirectional Encoder Representations from Transformers (BERT) BIBREF1.",
+    "1b1a30e9e68a9ae76af467e60cefb180d135e285": "unanswerable.",
+    "dea9e7fe8e47da5e7f31d9b1a46ebe34e731a596": "The baseline classification system used in the study by Fischer2011language is a type of machine learning algorithm called a supervised learning algorithm.",
+    "3355918bbdccac644afe441f085d0ffbbad565d7": "The supervised scores of the words are calculated using the word embeddings trained on a large corpus.",
+    "d9980676a83295dda37c20cfd5d58e574d0a4859": "The paper does not provide information on any specific data simulation techniques introduced.",
+    "79a44a68bb57b375d8a57a0a7f522d33476d9f33": "The article does not provide information on which qualitative metric is used for evaluation.",
+    "76ed74788e3eb3321e646c48ae8bf6cdfe46dca1": "Modern Standard Arabic (MSA) and Classical Arabic (CA) have two types of vowels, namely long vowels and short vowels, and diacritics.",
+    "8e52637026bee9061f9558178eaec08279bf7ac6": "The training data was translated into the four subtasks of the BIBREF0 system, which are:\n\n1. Anger: The intensity of anger was determined by the number of positive and negative words in the tweet.\n2. Fear: The intensity of fear was determined by the number of positive and negative words in the tweet.\n3. Joy: The intensity of joy was determined by the number of positive and negative words in the tweet.\n4. Sadness: The intensity of sadness was determined by the number of positive and negative words in the tweet.\n\nThe training data was translated into the four subtasks using a machine learning algorithm that uses a combination of supervised and unsupervised learning techniques. The algorithm uses a combination of techniques such as regression, classification, and clustering to analyze the data and determine the intensity of emotions. The training data was preprocessed by cleaning and preprocessing the text, removing stop words, stemming, and stemming, and converting the text into a format suitable for machine learning. The training data was then used to train the BIBREF0 system, which uses a combination of supervised and unsupervised learning techniques to automatically determine the intensity of emotions and sentiment of tweets in the four languages mentioned.",
+    "3116453e35352a3a90ee5b12246dc7f2e60cfc59": "The article does not provide information on the baseline models proposed for the medical text mining task.",
+    "4e748cb2b5e74d905d9b24b53be6cfdf326e8054": "The traditional linguistics features they used were eye-tracking.",
+    "b970f48d30775d3468952795bc72976baab3438e": "They tackle issues such as cultural and societal questions, the interpretation of texts, and the operationalization and analysis of complex concepts.",
+    "c70bafc35e27be9d1efae60596bc0dd390c124c0": "Unanswerable."
+}
