@@ -87,7 +87,6 @@ ipython_config.py
 #   intended to run in multiple environments; otherwise, check them in:
 # .python-version
 env_scrolls
-Evaluation_results
 experiments
 submission
 
@@ -162,3 +161,7 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+compressed_input
+original_input
+generations
