@@ -2,7 +2,6 @@
 fire
 pandas==2.0.3
 datasets==2.13.1
-
 # hf
 tokenizers==0.13.3
 sentencepiece==0.1.99
@@ -15,4 +14,3 @@ anthropic==0.3.4
 
 rouge_score
 nltk
-transformers==4.11.3
