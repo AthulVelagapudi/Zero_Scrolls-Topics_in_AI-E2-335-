@@ -1,0 +1,925 @@
+You are given a meeting transcript and a query containing a question or instruction. Answer the query in one or more sentences.
+
+Transcript:
+Industrial Designer: {vocalsound} I'm proud of it . {vocalsound}
+User Interface: {vocalsound}
+Project Manager: Okay . This is our final meeting , the detailed design meeting . And again I'll take minutes . The {disfmarker} what we have to get through in this meeting is firstly the prototype presentation from you two , so you can show us what you've been working on so diligently .
+User Interface: Yeah .
+Marketing: It does look very cool .
+Project Manager: Um then
+Industrial Designer: {vocalsound}
+Project Manager: {vocalsound} then Cat's going to present the evaluation criteria that we're going to be evaluating this against .
+User Interface: {vocalsound}
+Project Manager: Then I need to say some st a few things about finance , 'cause we have to check that it's within the finance criteria . Um and then we'll be making sure that our product fits both the evaluation criteria from Cat and the financial limits . Um and then we uh will have a brief evaluation of the whole process of production and design that we've been through . So we've got forty minutes . S
+Marketing: And then do we get to make a remote control ?
+Industrial Designer: {vocalsound}
+Project Manager: {vocalsound} 'Cause we missed out .
+User Interface: {vocalsound}
+Marketing: {vocalsound} Yeah .
+Project Manager: So
+Industrial Designer: {vocalsound}
+Project Manager: it's now {disfmarker} I guess that we're supposed to start at fifteen thirty five , so we've got until four fifteen .
+Industrial Designer: Uh-huh . How how much do we have , forty minutes ?
+Project Manager: Is that right ?
+User Interface: Yeah , about four fifteen , yeah .
+Project Manager: Yeah ,
+Industrial Designer: Yeah .
+Marketing: Yeah .
+Project Manager: until about four fifteen . So yeah . {vocalsound}
+Industrial Designer: {vocalsound} Okay , so .
+Project Manager: Go for it . Do you want {disfmarker}
+User Interface: So , you said um {disfmarker} are are we starting with the the {disfmarker}
+Project Manager: Yes .
+Industrial Designer: Presentation .
+User Interface: so will you maybe start with like the mm the shape and things and and then I will explain the the user interface th uh things , like the buttons and the scrolling things and {disfmarker}
+Industrial Designer: {vocalsound} Okay . {vocalsound} Okay . So um basically going with our trend of vegetables and {vocalsound} {disfmarker} we selected the colour and approximate shape of banana .
+Project Manager: {vocalsound}
+User Interface: {vocalsound}
+Marketing: {vocalsound} You think bananas are a safe thing to use ?
+Project Manager: {vocalsound}
+Industrial Designer: {vocalsound} Um {disfmarker} {vocalsound}
+Marketing: It's a bit um phallic .
+Industrial Designer: Yeah . Um {disfmarker}
+Project Manager: {vocalsound}
+User Interface: {vocalsound} Well , but it's it's just an a approximation . {vocalsound}
+Project Manager: Dual use , perfect .
+Industrial Designer: Yeah . {vocalsound}
+Project Manager: {vocalsound} Dual use , perfect .
+User Interface: {vocalsound}
+Marketing: Oh , {vocalsound} {gap} your remote control ? Oh that's just bad . {vocalsound}
+Project Manager: {vocalsound} Does it vibrate when you press the buttons ?
+Industrial Designer: {vocalsound} Um so basically it's the it's the flip open thing again .
+Project Manager: Sorry , sorry .
+User Interface: {vocalsound}
+Industrial Designer: So now we we have the {disfmarker} okay ,
+Project Manager: Mm-hmm .
+Industrial Designer: so Ma Maarika will explain you the user interface there . And it flips open on the side , so it opens like that . And we have the user interface o in here
+Project Manager: Mm-hmm . Wow .
+Industrial Designer: and uh {vocalsound} the the L_C_D_ and and the scroll are inside . Um well , everything else is probably user interface , so . Yeah , yeah .
+Project Manager: And it's {disfmarker} the whole thing's made of rubber , is that {disfmarker}
+User Interface: Uh yeah .
+Industrial Designer: {vocalsound} Oh yeah . Yeah , it has , yeah .
+User Interface: Rubber .
+Marketing: Is it to scale , or do you think you can make it a bit smaller ?
+User Interface: Yeah , {gap} . Um it could be made a bit smaller , and and of course it would be {gap} and {disfmarker}
+Marketing: Yeah .
+User Interface: {vocalsound} yeah , but um one thing we actually kind of um forgot while designing , that one side was supposed to be rounder ,
+Industrial Designer: {vocalsound} Yeah ,
+User Interface: so we said the back side round , yeah .
+Industrial Designer: well , but i since it's made of rubber anyway . I I think it's it's uh {disfmarker}
+Project Manager: Mm-hmm .
+Marketing: It l does look like the {gap} curvy
+User Interface: Yeah .
+Marketing: and then the whole shape's curvy , so I would say that this curvy does look quite like a vegetable .
+Industrial Designer: Yeah .
+Project Manager: Yeah .
+Industrial Designer: Mm . Hmm .
+User Interface: Yeah . And it's spongy as well . {vocalsound}
+Industrial Designer: {vocalsound}
+Marketing: {vocalsound} I wasn't very keen on that , but yeah . {vocalsound}
+Project Manager: {vocalsound}
+User Interface: So {vocalsound} so uh the user interface as as we discussed last time uh mm on on the {vocalsound} on the cover we just have the very basic things .
+Industrial Designer: {vocalsound}
+Project Manager: Huh . Mm-hmm .
+User Interface: So we have that n uh channels here starting from um uh one two three {disfmarker} there would be numbers in in the {disfmarker} on the actual one .
+Project Manager: Yeah .
+User Interface: So it's four , up to four , up to seven , up to nine and zero , z zero here .
+Project Manager: {vocalsound} Six seven eight nine . I like that .
+User Interface: Yeah . And then , well this is on off button . It's it's quite standard mm place for it and and also the colour is quite often red , so it's it's kind of user friendly .
+Project Manager: Yeah .
+User Interface: And then these ones would be for flipping the channels back and {disfmarker} like the previous one and the next one .
+Project Manager: Uh-huh .
+User Interface: And and we would also have a l little um thing saying here , previous and ne prevon prevon next .
+Marketing: So where's the volume ?
+Project Manager: Yeah .
+User Interface: The volume is is scrolling .
+Industrial Designer: It's on the side .
+User Interface: On the side ,
+Marketing: Ah , you did get that in then ,
+User Interface: this one . Yeah you just do it like this .
+Marketing: mm-hmm .
+User Interface: And and and it's it's on the back is mm cover or back lid , because if you flip it open , you can still do the scrolling here .
+Marketing: Oh okay , {gap} .
+Project Manager: Mm-hmm .
+User Interface: See ? So the volume is {vocalsound} you just scroll , but then once you flip it open , {vocalsound} okay , there there you have the screen
+Project Manager: Yeah .
+User Interface: and and you have the mm {vocalsound} spinning wheel with options to choose .
+Project Manager: Mm-hmm .
+User Interface: You can move back and forth and then if you need to m choose something on the screen , you just push the cen mm the middle button .
+Project Manager: Mm-hmm .
+Marketing: Cool . Oh , the thing we forgot was like a mute button .
+Industrial Designer: {vocalsound} Uh no , we we'd not put {gap} {vocalsound} {disfmarker}
+User Interface: A mute button .
+Marketing: Yeah .
+Industrial Designer: so on on the cover we have the the bare essentials .
+User Interface: Well , {gap} we'll have this on the screen , on the display .
+Project Manager: Y or you could have it {disfmarker} so you {disfmarker} on the wheel if you {disfmarker}
+Marketing: On the wheel , like if you hold the wheel down then it will mute .
+Industrial Designer: Uh on the L_C_D_ we r you know , the main menu will have various options .
+User Interface: Well , but the but the mute {disfmarker} yeah , the scrolling is kind of you have to scroll all the way to make it mute , right ?
+Project Manager: But if you hold it in ,
+Industrial Designer: Mm .
+Marketing: Yeah , but it's a scroll and click , isn't it ?
+Project Manager: if it's a scroll and click so you hold it in ?
+Marketing: Okay , cool .
+User Interface: Okay , yeah , okay .
+Marketing: So that {gap} that solves the whole mute issue .
+Industrial Designer: Mm .
+User Interface: Yeah . {vocalsound} And okay , so i so the the voice recognition is also just part of it .
+Project Manager: {gap} no .
+User Interface: You can't really see it in the interface .
+Industrial Designer: {vocalsound} Yeah , it's hidden in there somewhere .
+User Interface: Yeah . And we do have the logo on it as well .
+Project Manager: Mm-hmm , very good .
+User Interface: So I think it {disfmarker}
+Project Manager: And it's {disfmarker} {vocalsound} with the the black and yellow you're even in the right colours .
+User Interface: Yeah .
+Marketing: {gap} .
+Industrial Designer: Cool .
+User Interface: Yeah , I think um we could do l the logo in grey , as it is on the website .
+Project Manager: Mm-hmm .
+Industrial Designer: {vocalsound} We ran out of resources here , so . {vocalsound}
+Marketing: Yeah .
+User Interface: In the actual one .
+Project Manager: {vocalsound}
+User Interface: Yeah . {vocalsound}
+Marketing: {vocalsound}
+Industrial Designer: You can have a look . {vocalsound}
+User Interface: So if you have questions .
+Project Manager: Very good , let's have a look .
+User Interface: {vocalsound}
+Project Manager: Test it out . {vocalsound}
+Marketing: {gap} . {vocalsound}
+Industrial Designer: {vocalsound}
+Project Manager: {vocalsound}
+User Interface: {vocalsound}
+Project Manager: Uh it's a sort of intermediate colour , I guess .
+Marketing: Yeah , oh , we hold the remote .
+Industrial Designer: {vocalsound}
+Marketing: Oh , but it it does feel all cold and slimy .
+Project Manager: {vocalsound}
+Industrial Designer: {vocalsound}
+Marketing: I hate Play-Do , it's just minging .
+Industrial Designer: {vocalsound}
+Marketing: But yeah , uh that's cool , cool .
+Project Manager: Very good .
+Marketing: Mm-hmm .
+Project Manager: Okay , so maybe if we go on to evaluation cri criteria
+Marketing: Okay .
+Project Manager: and then we'll there {disfmarker}
+Industrial Designer: Yeah , see the budget .
+Project Manager: I suspect we're gonna have a couple of minor finance issues , but um we'll se I'm sure we can get around them somehow .
+Marketing: {vocalsound} {vocalsound}
+Industrial Designer: {vocalsound}
+Project Manager: We'll just send all of our manufacturing to some nice poor country
+Industrial Designer: {vocalsound}
+Project Manager: and cut some of the prices that way .
+User Interface: {vocalsound}
+Marketing: Wales . {vocalsound}
+Industrial Designer: {vocalsound}
+Project Manager: Wales , for example . {vocalsound}
+Marketing: Mm . Cool , okay . Right , okay . {vocalsound} {vocalsound} Fabulous ,
+Project Manager: Marketing Expert .
+Marketing: yeah . Okay , cool . So what we're gonna do is prefer {disfmarker} prepare the evaluation of the new design . {vocalsound} Um so we're gonna be using a seven point scale ,
+Project Manager: Mm-hmm .
+Marketing: so one is , you know , yes , it totally meets with that requirement and seven is , no , it really doesn't , we need to go back and start again . Um , you know . Basically , what I did was I went through all the like user requirements and things that we've done and we've worked on and like made a list of them . Um you know , so that we can evaluate each one and like {disfmarker} so it was about going back to the start and saying oh yeah , we did manage to do that , or oh no , we really forgot about that .
+User Interface: Yeah .
+Marketing: Okay ?
+Project Manager: Mm-hmm .
+Marketing: Cool , so these are what they are . Oh {disfmarker}
+Project Manager: So for each of these we need to give it a one to seven . Is that right ?
+Marketing: Yes , I did have A_ , B_ , C_ , and D_ down here , but it seems to have turned into like just bullet points .
+Project Manager: Mm dots , never mind .
+Marketing: Okay . But if you can imagine that they say A_ , B_ , C_ , and D_ , then that would be really good .
+Industrial Designer: {vocalsound} {vocalsound} I guess we'll give it maximum points in everything . {vocalsound}
+User Interface: Yeah , the yeah , it's definitely attractive . {vocalsound}
+Industrial Designer: {vocalsound}
+Project Manager: {vocalsound} Yeah , I agree .
+User Interface: Oh , the locatable thing we actually forgot .
+Marketing: Well , I thought we'd um kinda said that you'd have a little thing to stick on the T_V_ ?
+Project Manager: Yeah , just prepare one now .
+User Interface: Yeah . Shall I just prepare it now ?
+Marketing: {vocalsound} Yeah .
+User Interface: It will be red , too .
+Marketing: Cool . Okay . So , be attractive to look at . That's this one . What do you all say ?
+Industrial Designer: So ?
+Project Manager: I reckon it {disfmarker}
+User Interface: {vocalsound} S seven was th the maximum , yeah ?
+Marketing: Yeah .
+Project Manager: Yeah .
+User Interface: I I go for seven .
+Industrial Designer: {vocalsound} Yes .
+Marketing: Oh {vocalsound} we're all so proud of the {gap} .
+Project Manager: Seven , yeah , it's terribly sexy . Yeah .
+Marketing: Okay , so that'll be a seven for A_ .
+User Interface: {vocalsound}
+Marketing: Could {disfmarker} oh no , you can't whilst that's up there . Okay um uh what I've done on the next page is I've set it up so we just put the marks in .
+Project Manager: Ah , okay .
+Industrial Designer: Okay .
+Project Manager: Excellent . Except we can't {disfmarker}
+Marketing: Yeah .
+Industrial Designer: But we can we can {disfmarker}
+Marketing: But that's alright .
+Project Manager: uh we can if we {disfmarker}
+Industrial Designer: I can I can take note uh uh {disfmarker}
+Marketing: If you take a note of them , and then I'll put them in in a minute .
+Project Manager: then yeah , I'll take a note , it's fine .
+Marketing: Okay , so {vocalsound} we're all agreeing on seven for A_ ?
+Project Manager: Yeah .
+Marketing: Cool , okay . Does it match the operating behaviour of the user ?
+Industrial Designer: Um the the only thing that we were considering was that uh this thing is kind of more for right-handed people than for left-handed people ,
+Project Manager: I think it does .
+User Interface: I would think yes , yeah .
+Marketing: Yeah . I mean {disfmarker}
+Industrial Designer: so if you're left-handed you're kind of left uh scrolling with your finger .
+User Interface: Yeah ,
+Project Manager: Alright .
+User Interface: so y so we we might do we might want to do like a uh another m {vocalsound} model another another version , which is like exactly the mirror image of this one .
+Marketing: Yeah .
+Project Manager: But that's gonna be a problem ,
+Industrial Designer: But then {disfmarker} yeah .
+Project Manager: 'cause you don't always have all left-handers or all right-handers in a family .
+Industrial Designer: Yeah .
+User Interface: Yeah .
+Industrial Designer: So bu it's it's not a huge problem ,
+Marketing: I th I think it's not {vocalsound} it's not like it's a pen .
+Industrial Designer: because i i it is operatable .
+User Interface: But then then I think left-handed people are already used to discrimination anyway ,
+Project Manager: Yeah .
+User Interface: so they just {disfmarker}
+Marketing: Yeah , but I mean because it's not like it's a pen , you know , left-handed people can't normally write right-handed ,
+User Interface: Yeah .
+Marketing: but they can normally do most things right-handed ,
+Project Manager: Yeah .
+Industrial Designer: Right .
+Marketing: so I would say it's not such a big issue .
+Project Manager: Mm-hmm .
+User Interface: Yeah , because I mean anyway , right-handed people would be able to scroll with it ,
+Marketing: Yeah .
+Industrial Designer: Yeah .
+Marketing: I mean you can you can use your finger to to scroll rather than your thumb .
+Project Manager: Yeah .
+User Interface: so i if the majority are right-handed , it's uh {disfmarker}
+Project Manager: Mm-hmm .
+Industrial Designer: Yep .
+Marketing: So I mean that does kind of negate the whole R_S_I_ issue .
+Project Manager: Yeah .
+Industrial Designer: Mm .
+Marketing: So maybe we need to put {disfmarker} that needs a little bit of investigation , maybe give it a five , I would say ?
+Project Manager: Um {disfmarker}
+Marketing: What do you what do you all think ?
+Industrial Designer: Mm .
+Project Manager: Six .
+User Interface: Or maybe six , because it's just one one i one among the issues ,
+Project Manager: Yeah , I think I think for um {disfmarker}
+User Interface: I mean . Yeah .
+Project Manager: I mean most people are right-handed , so in {vocalsound} in terms of our greatest target group , I think it's pretty good , but we might want to flag it for management , they want {disfmarker} might want to um {disfmarker}
+User Interface: Yeah .
+Industrial Designer: One more thing is that i
+Marketing: Okay .
+Industrial Designer: It might be a little clumsy when when it opens up , right ,
+Project Manager: They {disfmarker}
+Industrial Designer: so it opens on the side . So {vocalsound} {disfmarker}
+Project Manager: Mm-hmm .
+User Interface: No , yeah , but mm but we have it {vocalsound} nicely {vocalsound} with the hinges here {gap} yeah .
+Industrial Designer: {vocalsound} Yeah yeah yeah , I mean {disfmarker} yeah .
+Project Manager: Yeah .
+User Interface: So it won't be a problem ,
+Marketing: Yeah . Yeah .
+Industrial Designer: So you guys can decide wh whether {disfmarker}
+User Interface: it will be {disfmarker} and it will be {disfmarker} it won't be heavy .
+Industrial Designer: Oops .
+Marketing: I th I think the alternative is flipping from the top .
+Industrial Designer: Yeah , but we {disfmarker} which makes it kind of really big , yeah .
+User Interface: Yeah well yeah ,
+Project Manager: The length is gonna be difficu
+User Interface: but it's it's a bit long . It's a little bit long .
+Marketing: Yeah um {disfmarker}
+User Interface: Well , I mean it can be opened like this of course and yeah .
+Marketing: But you were thinking about making it smaller , yeah ?
+Industrial Designer: {vocalsound} Uh this this kind of uh makes it more {gap}
+Project Manager: Mm .
+Marketing: Because {disfmarker}
+User Interface: S uh slightly smaller .
+Industrial Designer: and two , it might interfere with the I_R_ channel .
+Marketing: So you have to keep that side flat .
+User Interface: Yeah , but if we flip it open only as much as that .
+Industrial Designer: Okay .
+Marketing: So it works like a mobile phone flipping , but y you know , as long as that side's flat , than that will work .
+Industrial Designer: Right . Okay .
+Marketing: Okay . Um {vocalsound} okay , so C_ . Are are we admitting defeat on C_ or are we saying we're gonna stick a locator on the T_V_ ?
+Industrial Designer: No , we have a locator .
+Project Manager: No , we're gonna put it like {disfmarker} we've got th there's the locator dot .
+Marketing: There's a locator . Cool , so that means you need a {disfmarker} that does mean you need a little speaker on it though ,
+User Interface: Mm that you stick on T_V_ .
+Project Manager: Mm .
+Marketing: doesn't it ? To make it beep .
+Industrial Designer: Yeah .
+Marketing: Or a buzzer .
+Project Manager: Yeah .
+User Interface: Yeah well w but l but the speak sample speaker is included , so it it has some capacity to mm to do some {disfmarker} to make some sounds , so {disfmarker} yeah .
+Marketing: Okay .
+Industrial Designer: Yeah .
+Marketing: So that's two , so that's seven , yeah . It's locatable ?
+User Interface: Yep .
+Marketing: Fabulous . D_ .
+Industrial Designer: Intuitive , completely intuitive . {vocalsound}
+Marketing: {vocalsound}
+Project Manager: {vocalsound}
+User Interface: Yeah . If {vocalsound} uh uh if this means intuitive , if it means the way people kind of are used to finding things
+Project Manager: Yeah .
+User Interface: and it's {disfmarker} I th I think it's {disfmarker}
+Project Manager: I'd say six , 'cause the {disfmarker} I mean the the standard layout for numbers is three three three and one , rather than the way you've got it . I really like the way you have it ,
+Marketing: Yeah .
+Project Manager: but it's not the immediate thing that you're used to .
+Industrial Designer: Intuitive .
+Marketing: Yeah , and I mean d
+Industrial Designer: And uh even the scroll , it's a it's a new technology
+Project Manager: So {disfmarker}
+Industrial Designer: so m m might be a little more difficult for people to get used to in the beginni
+Project Manager: Might be {disfmarker}
+Industrial Designer: so it is kind of not very intuitive but uh it's a good technology , I mean once they get used to it .
+Project Manager: But it {disfmarker} and it's something that they will be experiencing in a lot of different places soon .
+Industrial Designer: Yeah .
+User Interface: Yeah .
+Marketing: So , should we maybe say f a five
+Industrial Designer: So l
+Marketing: and say it is intuitive ,
+Project Manager: Five ?
+Marketing: but it's different , so , do you know , I mean it's obvious how to use it ,
+Project Manager: Yeah .
+Marketing: but you might have to think about it first . So we give that one a five , you think ?
+Industrial Designer: Yeah , okay . I'm gonna give a seven in everything , so . {vocalsound}
+Marketing: Yep .
+Project Manager: I'm happy with five ?
+User Interface: Yeah .
+Project Manager: Yeah . {vocalsound}
+Marketing: I'm glad you're accepting this . It has taken a little while , hasn't it ? Um intuitive but {disfmarker} Sorry , it's really hard to write on those .
+Industrial Designer: Mm . {vocalsound}
+Marketing: I just went a bit mad , didn't I ?
+Project Manager: {vocalsound}
+Marketing: Um okay , cool , E_ , okay . Um I would guess this comes back from this whole B_ thing links in here , so possibly for left-handed . Investigate .
+Project Manager: Yep . But otherwise it's superb .
+Marketing: So , should we give it a six ?
+Project Manager: Six .
+Marketing: Six ?
+User Interface: Um uh the ergonom ergonomic design {disfmarker}
+Project Manager: Yeah .
+User Interface: well mm I mean I d uh I dunno , I mean the the repetitive stress things ,
+Industrial Designer: {gap} .
+User Interface: but then who would be really pushing the buttons so much on the on the remote control anyway ,
+Industrial Designer: Yeah . Yeah , unless you are a all the time sitting .
+User Interface: yeah ? See .
+Industrial Designer: Yeah .
+User Interface: Yeah , so it's kinda {disfmarker}
+Industrial Designer: Yeah , I I think it is ergonomic .
+Marketing: I used to send fifty texts a day , you know ,
+Project Manager: Well we've banned them from {disfmarker}
+Marketing: and I never got repetitive strain injury from that ,
+Project Manager: {vocalsound}
+Industrial Designer: Mm yeah .
+Marketing: so I find it quite hard to believe to be honest .
+Industrial Designer: And moreover it it has um {vocalsound} L_C_D_ and everything ,
+Project Manager: Yeah .
+Industrial Designer: so that uh you know uh we minimise the pressing of the buttons anyway .
+User Interface: Yeah .
+Project Manager: Yeah , it's varied .
+Marketing: Okay , so we give that a six ,
+Project Manager: Yeah . Six ?
+Marketing: yeah . Okay , F_ .
+User Interface: {vocalsound} Yeah , {gap} {disfmarker} it does have {disfmarker} yeah .
+Industrial Designer: {vocalsound} Absolutely .
+Project Manager: Voice control have seven .
+Marketing: Hang on , how come it's showing up with the things there but it only had bullet points there ? That's just {disfmarker}
+Project Manager: Ah , that's the second one . So you must have changed it on this one where it's got score , but not on the previous slide .
+Marketing: Oh okay , cool . Um {vocalsound} right , so {vocalsound} .
+Industrial Designer: So it has voice control .
+Marketing: Yes , so that's a seven then .
+Industrial Designer: Yep .
+Marketing: Um , cool .
+Industrial Designer: {vocalsound}
+Project Manager: G_ technologically innovative .
+Industrial Designer: Anyway it ha yeah ,
+User Interface: Technologi {gap} well {disfmarker}
+Industrial Designer: it's the most sophisticated remote that I ever seen . {vocalsound}
+Marketing: {vocalsound}
+Project Manager: {vocalsound} But in terms of the actual technology , none of it is actually new .
+User Interface: Yeah . Well mm we have we have the sample speaker as well , which is {disfmarker} yeah , it's kind of new .
+Project Manager: Yeah .
+Marketing: Yeah , but I mean you don't {disfmarker}
+Project Manager: All of the components have been used in other things before .
+Industrial Designer: Yeah , but they've been brought together in a remote .
+User Interface: But at the same time they are all they are all relatively new .
+Marketing: They're never been used i they've never been using remote remote control before I don't think .
+Project Manager: But do {disfmarker} yeah , yeah . Yeah .
+Marketing: {gap} .
+Project Manager: What do you reckon , five , six ?
+Marketing: Yeah , what do you all think ?
+User Interface: Six .
+Industrial Designer: {vocalsound} Yeah .
+Marketing: Six ?
+User Interface: I mean how how far can you go with a remote control , really ?
+Project Manager: {vocalsound} Yeah .
+Industrial Designer: {vocalsound}
+Marketing: Well , that's it , I mean {disfmarker}
+User Interface: It still has to do what i what it has to do .
+Industrial Designer: {vocalsound}
+Marketing: Yeah , but I mean everything has been used in space before it gets to anyone else really , hasn't it ?
+Project Manager: {vocalsound}
+Marketing: So , I don't think many peop
+Project Manager: Space remote .
+Industrial Designer: {vocalsound}
+Marketing: That's it , they can take it with them .
+User Interface: {vocalsound}
+Project Manager: Put fashion in electronics .
+Industrial Designer: {vocalsound} Absolutely . {vocalsound}
+User Interface: Yeah , isn't it fashionable ?
+Project Manager: {vocalsound}
+Industrial Designer: The carrot banana remote . {vocalsound}
+User Interface: Yeah , sure .
+Project Manager: {vocalsound}
+User Interface: It's the maximum fashion .
+Marketing: So , we give it seven , and we write {disfmarker}
+User Interface: Fruit fruit and vegetables are fashionable these days , so .
+Project Manager: {vocalsound}
+Industrial Designer: {vocalsound}
+Marketing: There we go .
+Industrial Designer: I think that's a {gap} .
+User Interface: So I think we've done very well , but {disfmarker}
+Industrial Designer: Yeah .
+Marketing: Cool .
+Project Manager: Very good .
+User Interface: {vocalsound} What's the assessment ?
+Marketing: So , we need the average here , so we got {disfmarker}
+User Interface: The average is about six and something .
+Project Manager: {vocalsound} Yeah , one .
+User Interface: A little bit over six .
+Marketing: Seven {disfmarker}
+Industrial Designer: {vocalsound} There are how many sixes ?
+Project Manager: Or a seven {vocalsound} .
+Industrial Designer: One , two , three .
+Marketing: So we've got four sevens ,
+User Interface: No , wait , a little bit under six .
+Marketing: so that's twenty eight ,
+Industrial Designer: Three .
+User Interface: No , wait .
+Marketing: three sixes ,
+Industrial Designer: And one five .
+Marketing: eighteen .
+User Interface: Oh , three sixes , okay , yeah .
+Project Manager: {vocalsound} Fifty one , one , two , three , four , five , six , seven , eight .
+Industrial Designer: Okay , twenty eight , thirty eight , fo forty six . Forty six and five , fifty one .
+Project Manager: Six point point {disfmarker}
+Industrial Designer: Fifty one divided by {disfmarker}
+User Interface: Six point something , yeah .
+Marketing: Two three four {disfmarker} Seven eight .
+Project Manager: about six point five .
+User Interface: {vocalsound} Six point five , yeah .
+Project Manager: Close enough .
+Marketing: Okay , that's pretty good , I think . {vocalsound}
+Project Manager: Now wait until we {vocalsound} get to finance and then we'll see if we can afford it .
+Marketing: {vocalsound}
+Project Manager: That's all you've got at the moment , or did you have anything more ?
+Marketing: Um no , that's it ,
+Project Manager: That's it ?
+Marketing: yeah .
+Project Manager: Alright . So , finance . And we'll see if we can unscrew this first .
+Industrial Designer: {vocalsound}
+Marketing: Cool , there we go .
+Project Manager: Sorry , this is {disfmarker} I'm just um {disfmarker}
+Marketing: {gap} . There we go and there are the marks .
+Project Manager: Beautiful .
+User Interface: Yeah .
+Project Manager: Not anymore .
+Marketing: {vocalsound}
+User Interface: {vocalsound}
+Project Manager: Computer no signal ?
+Industrial Designer: Mm I guess it'll have to wait for a bit .
+Project Manager: Adjusting . There we go . Okay , so we've looked at the prototype presentation and the evaluation criteria . And now we have to calculate the production costs . So I've got an Excel spreadsheet to help us do that . Can you read that ? Almost .
+Industrial Designer: {vocalsound}
+Project Manager: More or less . Um I started filling it in , but of course these are provisional , so we have to go down . No hand dynamo , right ?
+Marketing: Yeah .
+Project Manager: One simple battery .
+User Interface: {vocalsound} Yeah .
+Industrial Designer: Mm .
+Project Manager: No kinetic energy , no solar . The chip , we're going for an advanced chip on print .
+Industrial Designer: Advanced , yeah .
+Project Manager: We also said the sample sensor and sample speaker .
+User Interface: Yep .
+Project Manager: Um single-curved surface , so that we can fold it .
+User Interface: Yeah , yes .
+Project Manager: Case material we said rubber .
+User Interface: Rubber .
+Industrial Designer: Yep .
+Project Manager: I don't know what special colour means .
+Industrial Designer: Mm anything uh I think which is not more {gap} .
+Project Manager: {vocalsound}
+User Interface: I think something coloured , yeah , probably . So I think this is probably special co no ?
+Industrial Designer: Yeah .
+Project Manager: It could be {disfmarker}
+Marketing: Yeah , but rubber comes coloured , doesn't it ? You know .
+Project Manager: Rub rubber comes coloured ,
+User Interface: Yeah .
+Project Manager: it's {disfmarker} I would {disfmarker} {vocalsound} maybe it's like if you want titanium coloured or wood coloured , it's different .
+User Interface: Or maybe maybe if you want some kind of pattern thing on it ,
+Project Manager: Yeah , let's leave it as zero , 'cause it's easy . {vocalsound}
+User Interface: {gap} yeah yeah , okay .
+Marketing: Yeah ,
+User Interface: Yeah .
+Marketing: you might end up having to take off the sample sensor .
+Project Manager: We we're definitely going to have to {disfmarker}
+User Interface: We have pushbuttons ,
+Industrial Designer: Mm .
+Project Manager: so we've got pushbutton , and then we've
+User Interface: scro we have scroll wheel as well .
+Project Manager: Scroll wheel with pushbutton we had , no ?
+Industrial Designer: No uh we we have uh yeah .
+User Interface: S yeah , yeah , we had , for muting , yeah .
+Project Manager: Yeah .
+User Interface: And we have L_C_ display
+Project Manager: And button supplements .
+User Interface: and {disfmarker} yeah .
+Industrial Designer: Mm no .
+User Interface: Um {disfmarker}
+Marketing: {gap} . No .
+Industrial Designer: We don't have {disfmarker}
+Project Manager: No . No ?
+Industrial Designer: we're not using any of that .
+User Interface: Yeah , but what do we ha we have L_C_ display , but but the wh but the s spinning wheel {disfmarker}
+Project Manager: But the the spinning wheel's not there . I have {disfmarker} think {disfmarker} maybe it's integrated with the L_C_ display ?
+User Interface: Yeah .
+Marketing: We've got more than one pushbutton though ,
+User Interface: Okay , let's {gap} yeah .
+Project Manager: {vocalsound}
+Marketing: haven't we ?
+Project Manager: I think the pushbutton {disfmarker} oh .
+Marketing: 'Cause then you have {disfmarker}
+Project Manager: I don't know if that's one {disfmarker}
+Marketing: That means you can only have twenty five push buttons in total doesn't it ? Not counting anything , we'd still be in budget .
+Project Manager: Yeah . That seems unlikely .
+Industrial Designer: Huh ?
+Project Manager: Push what uh
+Industrial Designer: Wh wh what is the limit ? Uh .
+Marketing: Twelve point five .
+Project Manager: whether whether pushbutton means that p count by button or do we {disfmarker}
+User Interface: We have to count all of them , or {disfmarker} yeah .
+Industrial Designer: Mm I don't think so , no .
+Project Manager: I don't think that makes sense .
+Marketing: No .
+Industrial Designer: No it says what what is the kind of interface ,
+Marketing: Well it doesn't , but it uh {disfmarker}
+Project Manager: No .
+Industrial Designer: if it is pushbutton then you got a zero point five , it's a scroll wheel {disfmarker} so we we've put it's pushbutton and scroll wheel and L_C_D_ display ,
+Project Manager: Yeah . Yeah .
+Marketing: And L_C_ display .
+Industrial Designer: so that's that's the three kind of interfaces that we have .
+Project Manager: Yeah . Yeah . So , as we can see , that's way too expensive down here .
+Industrial Designer: {vocalsound} Wh wh what's our criteria ?
+Marketing: This sample sensor {gap} .
+Project Manager: Our budget's twelve point five .
+Industrial Designer: Uh okay .
+Marketing: Yeah , the sample sensor will have to go , 'cause that's the most expensive thing on there .
+Project Manager: Yeah , so that has implications though for the {gap} .
+Industrial Designer: Uh it does not have for voice recognition , but it does have for the feedback speaker . {gap} when you say {disfmarker} when you press one it says one or it says hello .
+Marketing: Yeah .
+Project Manager: For the locator .
+Marketing: But that's a bit of a gimmick anyway really , isn't it ?
+Industrial Designer: Mm {vocalsound} and the locator also goes away .
+Project Manager: Yeah .
+Marketing: We can afford to get rid of it .
+User Interface: But it was very no innovative
+Project Manager: Yeah .
+Marketing: So that means no locator , does it ?
+User Interface: {gap} innovativeness {gap} . Well um {disfmarker} yeah .
+Marketing: I mean does {disfmarker}
+Project Manager: What else does it need ?
+User Interface: Well the speaker uh the sample speaker is is expensive , but we could just have some some very very easy device that just beeps .
+Project Manager: Yeah , 'cause the sample speaker was , I think , more complicated then just a beeping thing .
+User Interface: This would be {disfmarker} Yeah , yeah yeah {vocalsound}
+Marketing: Yeah .
+User Interface: there you record your samples your speech samples and {disfmarker}
+Marketing: Yeah .
+Project Manager: Yeah , okay , so we {disfmarker}
+Industrial Designer: A also i in the case I'm not sure that you will evaluate this as a curved surface , because it's just rubber , so it's probably a flat surface rubber . Uh I mean uh um {disfmarker} yeah .
+Project Manager: Uh-huh .
+Marketing: Okay , yeah .
+Industrial Designer: Um {disfmarker}
+Project Manager: Right , so we need one fifty off .
+Marketing: See , I was gonna say the scroll wheel pushbutton thing , 'cause {disfmarker}
+Project Manager: Take it down to just a scroll wheel . {vocalsound} We could do {disfmarker}
+Industrial Designer: So tha that {vocalsound} mean that we cannot press {disfmarker} how do we how do we make a selection in uh in the L_C_D_ ?
+User Interface: Yeah , then then we would be in the b budget .
+Industrial Designer: If {vocalsound} in the L_C_D_ we can scroll , right ? But how do we make a selection if we d cannot push the button .
+User Interface: Yeah b no no , you can push this one , but we don't have a pushbutton uh we ca we don't have this muting mechanism for this scrolling thing .
+Marketing: But that's {disfmarker} well you would just have to to spin it down {gap} .
+Project Manager: Yeah . You can have to scroll it straight r roll it straight down for for mute .
+User Interface: Mm-hmm .
+Industrial Designer: No w w w but ha
+Marketing: So that's point three .
+Industrial Designer: it's it's the scroll wheel and I thought we were referring to this as a scroll spinning wheel and pushbutton thing .
+User Interface: But I mean {vocalsound} we can put an additional mute button on the top as well .
+Marketing: Yeah ,
+User Interface: If you {disfmarker}
+Marketing: I mean that wouldn't actually cost any more . That's the spin wheel though , isn't it ? Didn't that come with the L_C_ {disfmarker}
+Project Manager: That's with the L_C_
+Industrial Designer: That comes with the L_C_D_ ?
+Marketing: Yeah .
+Project Manager: We decided , 'cause it's not on our list .
+Industrial Designer: Oh so so the the this is {disfmarker}
+Marketing: Yeah .
+User Interface: Mm .
+Project Manager: The scroll wheel is on the side .
+Industrial Designer: {gap} . So {vocalsound} we're adding costs for {gap} right , okay uh I mean I think this is good .
+Marketing: S so we're point three over .
+User Interface: So {disfmarker}
+Project Manager: We're point three over at the moment .
+Marketing: Unless we just take off the scroll wheel altogether
+Project Manager: It's nothing n
+Marketing: and just have pushbuttons for the volume . Could b still put them on the side . But yeah .
+Project Manager: Yeah ,
+Marketing: I mean the scroll wheel's pretty cool , but {disfmarker}
+Project Manager: I have {disfmarker}
+Industrial Designer: Instead of scrolling here we have two buttons here , up {disfmarker} for up and down .
+Marketing: Yeah .
+Industrial Designer: On the side .
+Marketing: Yeah .
+User Interface: Mm-hmm .
+Industrial Designer: Mm uh it sounds good actually , yeah .
+Project Manager: Yeah .
+User Interface: Okay , yeah .
+Project Manager: Rather than having three different things that people have to do .
+Industrial Designer: {vocalsound} {gap} .
+User Interface: Okay .
+Project Manager: There we go . Oh look , we're way under budget and we'll make huge profits and we'll all get bonuses .
+Marketing: Yeah , well we could admit to the single curve {gap} , couldn't we ? {vocalsound}
+Industrial Designer: {vocalsound}
+Project Manager: {vocalsound} Or or that we have to have some sort of special colour .
+Marketing: Yeah , but {gap} {disfmarker}
+Project Manager: So that's alright . We we'll leave it at that {gap}
+Marketing: Yeah .
+Project Manager: and then I'll take {disfmarker} I can send it back to management and say we weren't quite sure about the colour , if that costs extra then we've still got some space for it ,
+Industrial Designer: {vocalsound} We have , yeah .
+Marketing: Yeah .
+Project Manager: yeah .
+User Interface: Yeah .
+Project Manager: Excellent . Alright . So did we lose um on our evaluation criteria , as a result of doing that ?
+Marketing: No .
+Industrial Designer: Not really , no .
+Marketing: No , I don't think so .
+Industrial Designer: Because we keep all the features , we keep voice recognition , we keep L_C_D_ display .
+Project Manager: Mm .
+Industrial Designer: We {disfmarker} instead of having scrolling we we just push the buttons .
+Marketing: Yeah .
+Project Manager: Yeah .
+Marketing: We just got rid of a gimmick that was never {gap} anyway ,
+Industrial Designer: Um yeah .
+Project Manager: Yeah .
+Marketing: and the scroll wheel is I mean essentially the two buttons that was {disfmarker} it's not a great difference I don't think .
+Industrial Designer: Yeah .
+Project Manager: Yeah .
+Industrial Designer: {vocalsound} But we lose the locator .
+Project Manager: Alright then .
+Marketing: Really ?
+Project Manager: We're gonna have a beep .
+User Interface: {vocalsound} Well {gap} we're going to have a beeping thing .
+Industrial Designer: So instead of speaker , {gap} .
+Project Manager: Yeah .
+User Interface: But yeah , it's it's not like sample speaker , but it will just beep , so we still have the locate .
+Project Manager: Yeah .
+Industrial Designer: 'Kay . {vocalsound}
+Marketing: Cool . That's not a very exciting colour . I think you should make it more vegetable-like . {vocalsound}
+Industrial Designer: {vocalsound}
+Project Manager: {vocalsound} Tha
+User Interface: Which colour , the the colour of the phone or the colour of the {disfmarker}
+Industrial Designer: {vocalsound}
+Marketing: Oh the the beeper thing .
+Project Manager: {gap} .
+Marketing: It {disfmarker}
+User Interface: But it can be yellow as well . It can come in the same colour as the the case .
+Project Manager: 'Cause we we won't have run out of our pot of Play-Doh {gap} .
+Industrial Designer: {vocalsound}
+Marketing: Yeah , I think Jen wants it to vibrate .
+Industrial Designer: {vocalsound}
+Project Manager: {vocalsound} Yeah , I know I know , my pen vibrates .
+User Interface: {vocalsound}
+Marketing: You know , your pen vibrates ?
+Industrial Designer: {vocalsound}
+Marketing: Yeah . {vocalsound}
+Project Manager: But only for a very short time . Um okay . So looks like we've designed a banana .
+Industrial Designer: {vocalsound}
+Marketing: {vocalsound}
+User Interface: {vocalsound}
+Project Manager: {vocalsound} Well done , team . {vocalsound} Um we need {disfmarker} we've just got about ten minutes or so left of the meeting , so it would be good if we could just have a little talk about the project itself and how it went , um so that we can feed back to the management for next time they're designing a product .
+Industrial Designer: {vocalsound} I think it mm {disfmarker}
+Marketing: Cool .
+Project Manager: Feedback ? Ideas ?
+User Interface: Yeah mm , as far as creativity is concerned , yeah I think there was there was room for creativity . The only the only problem being that at the end we had to cut some things down because of the the budget we had .
+Project Manager: Mm-hmm .
+Industrial Designer: {vocalsound} I think uh n one thing that was lacking uh was that we did not know what the various things cost to begin with .
+Project Manager: Mm-hmm .
+Industrial Designer: Um we kap kept a adding things randomly .
+Marketing: Yeah .
+Industrial Designer: So , had we known {disfmarker}
+Project Manager: Yeah .
+Marketing: If we'd had that sheet at the beginning {gap} should've been like , okay , so we can have that lot , let's just throw it together and do what we can .
+Industrial Designer: {vocalsound} Yeah , that or not , yeah .
+Project Manager: Mm-hmm .
+User Interface: Yeah , yeah , yeah .
+Industrial Designer: Yeah . So {vocalsound} d all the random decisions at the end could have been prevented .
+Marketing: Yeah .
+Industrial Designer: Mm . {vocalsound}
+Project Manager: But in terms of the process of um going and working individually and then coming back to a meeting , that that worked in terms of .
+Industrial Designer: Yeah , mm .
+Marketing: I think 'cause the meetings were so regular , you know . It wasn't like we were alone for very long ,
+Project Manager: Mm-hmm .
+Marketing: so you didn't {vocalsound} st go off and think , wouldn't it be great to have a vibrating {vocalsound} remote control {vocalsound} shaped like a banana ,
+Project Manager: Mm-hmm .
+Industrial Designer: {vocalsound}
+User Interface: {vocalsound}
+Project Manager: {vocalsound} Banana . {vocalsound}
+Industrial Designer: {vocalsound}
+Marketing: and then , you know , come back three days later and Jen's going look , look , it vibrates and it looks like a banana .
+Industrial Designer: {vocalsound}
+Project Manager: {vocalsound}
+User Interface: Yeah . {vocalsound}
+Marketing: {vocalsound} Um yeah , so yeah .
+User Interface: Yeah , the m the means were very very good , the means we used .
+Project Manager: Mm-hmm , the whiteboard digital pens .
+User Interface: And the pens . {vocalsound}
+Marketing: Uh I like the pens .
+Project Manager: {vocalsound} We like the pens . {vocalsound}
+Marketing: I want one . That would just be so cool , to d do all your notes and s
+Project Manager: Yeah , you could take it to lectures and just write stuff down
+Industrial Designer: Yeah yeah yeah ,
+Project Manager: and have it printed out when you got back to the office .
+User Interface: Yeah , yeah .
+Industrial Designer: that's it's it's {disfmarker}
+Project Manager: They great ?
+Industrial Designer: I wonder what one of these costs . {vocalsound}
+Project Manager: Do you think they'd notice if one went ?
+Marketing: {vocalsound} I don't think you should say that was the recording .
+User Interface: {vocalsound}
+Project Manager: Oh okay .
+Marketing: Okay , cover up the microphone . Alright , let's take it . {vocalsound}
+Industrial Designer: {vocalsound}
+Project Manager: Yep . Shh . {vocalsound}
+User Interface: {vocalsound}
+Project Manager: Yep .
+Marketing: Okay .
+Project Manager: But that worked well having having a whiteboard that we could draw on as well as having the PowerPoint , 'cause the {disfmarker} I find that the problem with PowerPoint often is that it's so static and you can't change it once you're in there ,
+Marketing: It is a bit limiting , isn't it ?
+Industrial Designer: Yeah .
+User Interface: Yeah .
+Marketing: Yeah .
+Project Manager: yep .
+User Interface: Yeah , and and and this time also the time limits but actually preparing the {vocalsound} {disfmarker}
+Marketing: Yeah . The thing flew in ,
+Project Manager: Mm-hmm .
+Marketing: you didn't have the whole whooshing thing , 'cause there wasn't time for that , so yeah .
+User Interface: Yeah .
+Project Manager: Yeah . That's alright , that always irritates me anyway , yeah .
+Marketing: Not that you can do that on the board , either . We could make some little {disfmarker}
+User Interface: But yeah , but I mean already just just preparing the slides before before the meeting , yeah .
+Marketing: Yeah , totally , I mean that was fairly tight anyway , I mean especially with that last-minute alteration .
+Project Manager: Mm . Yeah .
+User Interface: Yeah . {vocalsound}
+Industrial Designer: Mm yeah . {vocalsound}
+Marketing: {gap} back it , {vocalsound} this is {disfmarker} just had to be changed
+User Interface: {vocalsound}
+Marketing: . And {disfmarker} yeah , so {disfmarker} cool .
+Project Manager: Yeah .
+Marketing: Are we supposed to say nice things about Jen now ?
+Industrial Designer: {vocalsound}
+Project Manager: And presumably you don't {disfmarker} you can say nasty things as well .
+Marketing: {vocalsound}
+User Interface: Yeah .
+Project Manager: I have no stake in it .
+User Interface: I was I was satisfied with with the leadership , yeah .
+Marketing: Yeah , definitely .
+Industrial Designer: Yeah .
+Marketing: You weren't like a a dictating leader , so that was always good .
+Project Manager: You have to say that , 'cause I'm taking the notes .
+Industrial Designer: {vocalsound}
+Project Manager: I'll leave the room and you can have another go .
+User Interface: Mm-hmm .
+Marketing: I know you've got the pen , you might attack me with it . {vocalsound}
+Project Manager: {vocalsound} Better than that than the banana .
+User Interface: And then the teamwork I think I think it worked quite quite nicely , yeah .
+Project Manager: I think it worked quite well .
+Industrial Designer: {vocalsound} Yeah .
+Marketing: Yeah .
+Project Manager: Did anyone feel that they were getting sort of covered up and not being able to say their bit ?
+User Interface: To express them mm mm
+Industrial Designer: Mm . I guess it was a fairly small group ,
+User Interface: no .
+Industrial Designer: so all of us got to express our opinions , yeah .
+Project Manager: Yeah .
+Marketing: Yeah .
+Project Manager: {gap} . New ideas found . Not quite sure what about .
+User Interface: Well it's it's it's pretty new ,
+Industrial Designer: Mm .
+Project Manager: Yeah . {vocalsound}
+User Interface: pretty novel solution for a for a remote control really , all this flipping open thing and {disfmarker}
+Project Manager: {vocalsound} Yeah .
+Marketing: I don't know , I don't go shopping for remote controls that often , maybe somebody's already though of it .
+User Interface: Yeah , neither neither do I ,
+Project Manager: {vocalsound}
+User Interface: but I've never seen anything and and none of my examples were was was like this , actually , so .
+Industrial Designer: Hmm .
+Marketing: Yeah .
+Project Manager: Mm-hmm .
+Marketing: Yeah . I'll be looking out next time I need to write an essay .
+Project Manager: Yeah , that's right . {vocalsound}
+Marketing: That looks boring , I'll see if anyone's made a {gap} remote control .
+Industrial Designer: {vocalsound}
+Project Manager: {vocalsound}
+User Interface: Yeah maybe w maybe we could have a patent on this one .
+Marketing: Yeah , yeah .
+Project Manager: {vocalsound}
+Industrial Designer: Yeah . {vocalsound}
+User Interface: Patent patent patent . Mm .
+Marketing: I think we'd like to think the ideas were new ,
+Project Manager: Banana remote .
+Marketing: but we've got no way of finding out . {vocalsound}
+Project Manager: Yeah .
+User Interface: Mm-hmm .
+Project Manager: Or you can always go to Google and type in banana remote control .
+Industrial Designer: {vocalsound}
+Marketing: That vibrates {disfmarker} {vocalsound}
+Project Manager: {vocalsound} Flip . Vibrate
+User Interface: {vocalsound}
+Marketing: {vocalsound} Yeah , but that would just come up with like other things really wouldn't it .
+Project Manager: . And uh {disfmarker} yeah . {vocalsound} Nothing that you really want . {vocalsound}
+Industrial Designer: {vocalsound}
+User Interface: {vocalsound}
+Marketing: {vocalsound}
+Project Manager: True . Yeah . {vocalsound} Okay . So , costs are within budget ,
+Marketing: Yes .
+User Interface: Yes . {vocalsound}
+Project Manager: well within budget , including a little {disfmarker} what have we got ? One Euro left over for bits that we didn't foresee . Um we've evaluated the project .
+User Interface: Yes .
+Marketing: And it's fabulous .
+Project Manager: You've got the scores . Can you put that in the project documents file ?
+Marketing: It's in the project documents {gap} .
+Project Manager: It's in there already . And the process wheel didn't really have any major problems with . Were there any {disfmarker} was there anything that you found difficult , or anything that didn't go as smoothly as you'd hope ?
+User Interface: And my main difficulty was the the time pressure .
+Project Manager: Yeah .
+User Interface: Otherwise it's it's all fine .
+Industrial Designer: Mm-hmm .
+Marketing: Yeah , yeah , sometimes it's like a little bit rushed .
+Industrial Designer: {vocalsound} I thought that was good though , because if you're given too much time then you got nothing to do with your time and um {disfmarker} yeah .
+User Interface: Yeah , yeah , yeah .
+Industrial Designer: Although we could have made the R_s better had we had five more minute . {vocalsound}
+Project Manager: {vocalsound}
+User Interface: Yeah .
+Marketing: {vocalsound} {vocalsound}
+Project Manager: Okay then . Um I think we're still well within our time .
+Marketing: Yeah , we've got like five minutes left .
+Project Manager: We've got about five minutes left , but if we've finished , then we've finished . We're just too too efficient
+User Interface: Yeah .
+Industrial Designer: {vocalsound} We certainly are ,
+Project Manager: and you should never drag a meeting on just because you have extra time .
+Marketing: Yeah .
+Industrial Designer: mm . Yeah .
+User Interface: Yes .
+Project Manager: So I would say that's the end of that meeting .
+Industrial Designer: {vocalsound}
+Marketing: 'Kay .
+Project Manager: Thank you , team .
+User Interface: Yeah , it was a pleasure working with you .
+Industrial Designer: {vocalsound} Yeah , same here . {vocalsound}
+Marketing: {vocalsound}
+Project Manager: It was very productive day and {disfmarker}
+Marketing: We could draw animals on the board again .
+Project Manager: {vocalsound} Mm uh no . {vocalsound}
+Industrial Designer: Mm uh no . {vocalsound}
+Marketing: {vocalsound}
+Industrial Designer: I don't think so . {vocalsound}
+User Interface: You can make some animals .
+Marketing: I don't like Play-Doh , no .
+Industrial Designer: {vocalsound}
+User Interface: Oh , you don't like anim
+Marketing: It's just minging . It smells so bad .
+User Interface: {vocalsound} It doesn't ?
+Marketing: It does .
+User Interface: Smells quite nice . Smells very sweet .
+Marketing: Mm .
+Project Manager: Right , so we have to complete the final questionnaire and meeting summary when they send it .
+Industrial Designer: Was there a questionnaire already sent ?
+Project Manager: I don't know if it's already sent or not .
+Marketing: No , it hasn't been .
+Project Manager: Um presumably I have to {disfmarker}
+Marketing: Do we have to go back into the other room or can we stay in here now ?
+Project Manager: I don't see why you can't stay here , really .
+Marketing: Okay , so the other way . {vocalsound}
+Project Manager: {vocalsound} Did I save this one ? Production costs .
+User Interface: {vocalsound} I made your animal for you .
+Industrial Designer: {vocalsound}
+Marketing: {vocalsound}
+Project Manager: {vocalsound} It was supposed to be pink . {vocalsound} But it was blue on the board .
+User Interface: Yeah , that's the one {disfmarker}
+
+Query:
+Summarize the whole meeting.
+
+Answer:

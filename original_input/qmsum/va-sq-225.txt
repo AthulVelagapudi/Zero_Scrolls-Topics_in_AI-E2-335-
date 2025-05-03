@@ -1,0 +1,986 @@
+You are given a meeting transcript and a query containing a question or instruction. Answer the query in one or more sentences.
+
+Transcript:
+Grad F: Test .
+Postdoc G: OK .
+Professor B: Let 's see , I should be Two .
+PhD D: Up high {disfmarker}
+Grad E: As close to your mouth as you can get it .
+Professor B: La
+PhD D: high as you can get .
+Professor B: Is this channel one ?
+Postdoc G: Yeah , on your upper lip .
+PhD H: Channel one one one .
+Professor B: Gee , OK . Yes . OK .
+Grad E: OK , so for {disfmarker} for {disfmarker} For people wearing the wireless mikes , like {disfmarker} like this one , I find the easiest way to wear it is sorta this {disfmarker} this sorta like that .
+PhD H: This is {disfmarker} chan channel channel one one two three
+Grad F: Channel five , channel five .
+Professor B: Yeah . Mm - hmm . What do you do ,
+Grad E: It 's actually a lot more comfortable then if you try to put it over your temples ,
+Grad F: Test , test test .
+Professor B: you do it higher ?
+Grad E: so {disfmarker}
+Professor B: Mm - hmm .
+PhD D: Adam 's just trying to generate good uh data for the recognizer there .
+Postdoc G: Yeah , I think we 're supposed to {disfmarker} that 's right .
+Grad E: And then also , for {disfmarker} for all of them , if your boom is adjustable , the boom should be towards the corner of your mouth ,
+Grad F: Test test .
+PhD A: By the way , there was a bug . Yeah , i it wasn't using the proper
+PhD D: Oh it was .
+Grad E: and about a uh a thumb to a thumb and a half distance away from your mouth ,
+PhD A: basically it wasn't adapting anything .
+PhD D: Oh .
+Grad E: so about like I 'm wearing it now .
+PhD D: Oh that 's interesting . So why didn't you get the same results and the unadapted ?
+Grad E: so so Jane , you could actually do even a little closer to your mouth ,
+PhD H: It 's not always possible .
+PhD A: Hmm ?
+PhD D: Why didn't you get the same results and the unadapted ?
+Postdoc G: I could {disfmarker} can this be adjuste like this ?
+Grad E: but {disfmarker}
+PhD A: Oh , because when it estimates the transformer pro produces like a single matrix or something .
+Grad E: Yep .
+Postdoc G: Is that @ @ ? OK , thank you .
+Grad F: Adam , I 'm not {disfmarker}
+PhD D: O Oh oh I see .
+Grad F: uh , looks kinda low on channel five {disfmarker}
+PhD D: I see , I see .
+Professor B: OK .
+Grad F: no ?
+Grad E: Channel five , s speak again .
+Grad F: Maybe not .
+Postdoc G: Hello .
+PhD A: Basically there were no counts
+Grad E: Yeah , that 's alright .
+Grad F: Hello ?
+Grad E: I mean , we could {disfmarker} we could up the gain slightly if you wanted to .
+Grad F: It 's OK ?
+PhD H: Yeah .
+Grad F: Is this OK ?
+PhD H: OK .
+PhD D: I see what you mean .
+PhD C: Who 's channel B ?
+Grad E: but {disfmarker} Uh , channel B is probably Liz .
+PhD C: Uh oh .
+PhD H: Uh channel B {disfmarker} I am channel B .
+Professor B: You wanna close this ,
+Postdoc G: Channel eight , eight .
+Professor B: or
+PhD C: No I
+Grad E: Thank you .
+PhD H: No , channel B .
+PhD A: Hello , hello .
+PhD C: yeah , yeah , you 're channel B .
+PhD H: Yeah , yeah .
+PhD C: So can you talk a bit ? I thought it might be too
+PhD H: OK , yeah , channel B , one two three four five .
+PhD C: OK .
+Grad E: Yeah , it 's alright . So , the gain isn't real good .
+Professor B: We 're recording ,
+PhD C: OK .
+Professor B: right ?
+Grad E: OK , so we are recording .
+PhD H: Ah .
+Professor B: Yeah .
+PhD A: OK .
+Grad E: Um everyone should have at least two forms possibly three in front of you depending on who you are .
+Grad F: Oh .
+Grad E: Um we {disfmarker} we 're doing a new speaker form and you only have to spea fill out the speaker form once but everyone does need to do it . And so that 's the name , sex , email , et cetera .
+PhD H: Mm - hmm .
+Grad E: We {disfmarker} we had a lot of discussion about the variety of English and so on so if you don't know what to put just leave it blank . Um I {disfmarker} I designed the form and I don't know what to put for my own region ,
+PhD A: Mmm .
+Grad E: so
+PhD D: California .
+PhD A: I think {disfmarker}
+Grad E: California .
+PhD H: California .
+PhD A: Um may I make one suggestion ? Instead of age put date of {disfmarker} uh year of birth
+Grad E: Sure .
+PhD A: because age will change , but The year of birth changes , you know , stays the same , usually .
+Grad E: Oh .
+PhD C: A actually , wait a minute ,
+Grad E: Birth year ?
+Postdoc G: Although on {disfmarker}
+PhD A: Yeah .
+PhD C: shouldn't it be the other way around ?
+PhD D: Not for me .
+Postdoc G: course on the other {disfmarker} on the other hand you could {disfmarker} you view it as the age at the time of the {disfmarker}
+PhD C: On the other side ,
+PhD A: Well the thing is , if ten years from now you look at this form knowing that {disfmarker}
+PhD C: yeah .
+Postdoc G: Yes , but what we care about is the age at {disfmarker} at the recording date rather than the {disfmarker}
+PhD C: O yeah .
+PhD D: But there 's no other date on the form .
+PhD C: W we don't care how they {disfmarker} old they really are .
+PhD A: Well {disfmarker} well I don't know .
+Postdoc G: Yes . {vocalsound} Unless we wanna send them a card .
+Grad E: Well I guess it depends on how long the corpus is gonna be collected for .
+PhD A: Anyway .
+Postdoc G: Yeah , that 's true .
+PhD C: I still don't see the problem .
+Grad E: Either way yeah I think {disfmarker} I think age is alright
+PhD A: OK .
+Grad E: and then um there will be attached to this a point or two these forms uh so that you 'll be able to extract the date off that
+PhD A: Mm - hmm .
+Grad E: so , anyway . And so then you also have a digits form which needs to be filled out every time , the speaker form only once , the digit form every time even if you don't read the digits you have to fill out the digits form so that we know that you were at the meeting . OK ? And then also if you haven't filled one out already you do have to fill out a consent form . And that should just be one person whose name I don't know . OK ?
+Grad F: Do you want this {pause} Adam ?
+Grad E: Uh sure . Thank you .
+Professor B: So uh
+Grad E: OK so should we do agenda items ?
+Professor B: Uh oh that 's a good idea . I shouldn't run the meeting .
+Grad E: Uh well I have {disfmarker} I wanna talk about new microphones and wireless stuff .
+Postdoc G: Mmm .
+Grad E: And I 'm sure Liz and Andreas wanna talk about recognition results . Anything else ?
+PhD C: I guess {disfmarker} what time do we have to leave ? Three thirty ?
+PhD A: Yeah .
+PhD C: Yeah ,
+Grad E: Why don't you go first then .
+PhD C: so .
+Professor B: Yeah , good idea .
+PhD A: OK .
+PhD C: Um Well , I {disfmarker} I sent out an email s couple hours ago so um with Andreas ' help um Andreas put together a sort of no frills recognizer which is uh gender - dependent but like no adaptation , no cross - word models , no trigrams {disfmarker} a bigram recognizer and that 's trained on Switchboard which is telephone conversations . Um and thanks to Don 's help wh who {disfmarker} Don took the first meeting that Jane had transcribed and um {vocalsound} you know separated {disfmarker} used the individual channels we segmented it in into the segments that Jane had used and uh Don sampled that so {disfmarker} so eight K um and then we ran up to I guess the first twenty minutes , up to synch time of one two zero zero so is that {disfmarker} that 's twenty minutes or so ? Um yeah because I guess there 's some ,
+Grad E: Or so .
+PhD C: and Don can talk to Jane about this , there 's some bug in the actual synch time file that ah uh I 'm {disfmarker} we 're not sure where it came from but stuff after that was a little messier . Anyway so it 's twenty minutes and I actually
+Grad E: Hmm .
+PhD C: um
+Grad E: I {disfmarker} was that {disfmarker} did that {disfmarker} did that recording have the glitch in the middle ?
+Postdoc G: I 'm puzzled by that . I {disfmarker} oh {disfmarker} oh , I see .
+PhD C: There 's {disfmarker} there 's a {disfmarker}
+Postdoc G: Oh there was a glitch somewhere .
+PhD C: yeah , so that actually um
+Grad F: Was it twenty minutes in ,
+PhD C: if it was twenty minutes in then I don't know
+Postdoc G: I forgot about that .
+Grad F: I thought {disfmarker}
+PhD A: Well it was interesting ,
+Postdoc G: Well , I mean , they {disfmarker}
+PhD A: suddenly {disfmarker} the {disfmarker} the overall error rate when we first ran it was like eighty percent
+Grad E: I don't remember when it is .
+Postdoc G: but I was able to can transcribe
+PhD A: but i looking at {disfmarker} the first sentences looked much better than that and then suddenly it turned very bad and then we noticed that the reference was always one off with the {disfmarker} it was actually recognized
+PhD C: Wel
+Grad E: Oh no .
+Grad F: Yeah , that might be {disfmarker} that might be {disfmarker} that might be my fault .
+Postdoc G: Wow .
+PhD A: so
+Grad E: Oh so that was just a parsing mismatch .
+Grad F: I 'm not {disfmarker}
+PhD A: OK .
+PhD C: No actually it was {disfmarker} yeah i it was a complicated bug because they were sometimes one off and then sometimes totally random so um
+Grad F: yeah , I was pretty certain that it worked up until that time ,
+Postdoc G: Oh . That 's not good .
+PhD C: Yeah
+PhD A: OK .
+PhD C: so that 's what we have
+Grad E: Alright .
+Grad F: so
+PhD C: but that {disfmarker} that will be completely gone if this synch time problem
+Postdoc G: Yeah .
+Grad E: The {disfmarker} the glitch
+PhD A: So {disfmarker} so we have everything recognized but we scored only the first uh whatever , up to that time to
+Postdoc G: And the only glitch {disfmarker}
+Grad E: yeah .
+Postdoc G: yeah .
+PhD C: So you guys know .
+Professor B: S sorry I haven't seen the email ,
+PhD C: Yeah .
+Grad E: Th - the
+Postdoc G: The {disfmarker} the {disfmarker} well {disfmarker} wait
+Professor B: what was the score ?
+PhD C: So here 's the actual copy of the email
+Postdoc G: we should say something about the glitch . He {disfmarker} he can say something about the glitch .
+PhD C: um oh OK
+Grad E: yeah .
+Postdoc G: Cuz it 's {disfmarker} it 's {disfmarker} it 's {disfmarker} h it 's {disfmarker} it 's very small {disfmarker}
+PhD C: so does this glitch occur at other {disfmarker}
+Grad E: There {disfmarker} there {disfmarker} there 's an acoustic glitch that occurs where um the channels get slightly asynchronized
+Postdoc G: very small . Yep .
+PhD C: Oh .
+PhD A: Mmm .
+PhD C: Right .
+Grad E: so the {disfmarker} that {disfmarker} that problem has gone away in the original driver believe it or not when the SSH key gen ran the driver paused for a fraction of a second
+Professor B: Hmm .
+Grad F: Hmm .
+Grad E: and so the channels get a little asynchronous and so if you listen to it in the middle there 's a little part where it starts doing {disfmarker} doing click sounds .
+Professor B: So {disfmarker}
+PhD C: And is it only once that that happens ?
+Grad E: But yeah
+PhD C: OK .
+Grad E: it {disfmarker} right once in the middle .
+PhD C: There 's {disfmarker} the previous page has some more information about sort of what was wrong
+Professor B: so {disfmarker} so un unsurprisingly Adam is the golden voice ,
+PhD C: but
+Grad E: Um But that shouldn't affect anything
+PhD C: OK so that 's actually
+Postdoc G: S and it {disfmarker}
+Professor B: you see this here ?
+PhD C: It {disfmarker} y it 's {disfmarker}
+Grad E: yeah yeah " bah "
+PhD C: OK no {disfmarker}
+PhD A: Oh , and {disfmarker}
+PhD C: What happens is it actually affects the script that Don {disfmarker}
+PhD D: Huh .
+PhD C: I mean if we know about it then I guess it could always be checked for it
+Grad E: Well the acoustic one shouldn't do anything .
+PhD C: but they
+Grad F: Yeah , I don't know exactly what affected it
+Postdoc G: I agree . I agree .
+PhD A: I {disfmarker} I have {disfmarker}
+Grad F: but I 'll {disfmarker} I 'll talk to you about it ,
+PhD A: Yeah .
+Grad E: But I {disfmarker} I do remember {disfmarker}
+PhD C: Yeah .
+Grad F: I 'll show you the point .
+Postdoc G: Yeah . It {disfmarker} it had no effect on my transcription ,
+PhD A: Mmm .
+Postdoc G: you know , I mean I {disfmarker} I had no trouble hearing it and {disfmarker} and having time bins
+Grad E: I do remember seeing once the transcriber produce an incorrect XML file where one of the synch numbers was incorrect .
+Postdoc G: but there was a {disfmarker} Oh .
+PhD C: Well , the {disfmarker} the synch time {disfmarker} the synch numbers have more significant digits than they should ,
+Grad F: That 's what happened .
+Postdoc G: Oh .
+PhD H: Yeah .
+Grad E: Where {disfmarker} where they weren't monotonic .
+Grad F: There was {disfmarker} yeah , I mean {disfmarker}
+PhD C: right ? There 's things that are l in smaller increments than a frame .
+PhD H: Yeah .
+Postdoc G: Oh , interesting .
+PhD C: And so then , I mean you look at that and it 's got you know more than three significant digits in a synch time then that can't be right
+Grad E: Oh OK so that 's
+Grad F: Hmm .
+Postdoc G: Oh .
+PhD A: Mmm .
+PhD C: so anyway it 's {disfmarker} it 's just {disfmarker}
+Grad E: yeah sounds like a bug .
+Postdoc G: Yeah .
+PhD C: that 's why we only have twenty minutes but there 's a significant amount of {disfmarker}
+Grad F: Non - zero ? Um there are like more {disfmarker} cuz there 's a lot of zeros I tacked on just because of the way the script ran ,
+Grad E: The other one I saw was that it yeah .
+Grad F: I mean but there were there was a point .
+PhD C: Yeah that was fine . That {disfmarker} that was OK .
+Grad E: The other one I saw was non non - monotonic synch times
+Grad F: OK .
+Grad E: and that definitely indicra indicates a bug .
+Grad F: Uh .
+PhD C: Well that would really be a problem , yeah . So anyway these are just the ones that are the prebug for one meeting .
+Grad F: Yeah .
+PhD C: um and what 's {disfmarker} which {disfmarker}
+Grad E: So that 's very encouraging .
+PhD C: this is really encouraging cuz this is free recognition ,
+Professor B: Hmm .
+PhD H: Yeah .
+Professor B: Cool .
+PhD A: Mmm .
+PhD C: there 's no I mean the language model for Switchboard is totally different so you can see some like this Trent Lott which
+PhD D: Trent Lott .
+PhD C: um I mean these are sort of funny ones ,
+PhD D: It 'll get those though .
+PhD C: there 's a lot of perfect ones and good ones and all the references , I mean you can read them and when we get more results you can look through and see
+Grad E: I and as I said I would like to look at the lattices
+PhD A: Mm - hmm .
+PhD C: but um it 's pretty good .
+Grad E: because it sounded like even the ones it got wrong it sort of got it right ?
+PhD C: Well so I guess we can generate
+Grad E: Sounds likes ?
+PhD A: There are a fair number of errors that are , you know where {disfmarker} got the plural S wrong or the inflection on the verb wrong .
+Postdoc G: Mm - hmm .
+PhD C: um
+Grad E: Yeah , and who cares ? And {disfmarker} and there were lots of {disfmarker} of course the " uh uh " - s , " in on " - s " of uh " - s .
+PhD A: Mmm , so if {disfmarker}
+PhD C: there 's {disfmarker} No those are actually
+PhD A: Yeah .
+PhD C: a lot of the errors I think are out of vocabulary ,
+PhD A: Mm - hmm .
+PhD C: so is it like PZM is three words , it 's PZM ,
+PhD A: Mm - hmm .
+PhD C: I mean there 's nothing There 's no language model for PZM or
+Grad E: Right . Ri - ri right .
+PhD C: um
+Grad E: Did you say there 's no language for PZM ?
+PhD C: No language model , I mean those {disfmarker}
+Grad E: Do you mean {disfmarker} so every time someone says PZM it 's an error ? Maybe we shouldn't say PZM in these meetings .
+PhD C: Well {disfmarker} well there 's all kinds of other stuff like Jimlet and I mean um anyway there {disfmarker}
+Grad E: Yeah , that 's right , Jimlet .
+Professor B: Well , we don't even know what that means ,
+PhD C: so {vocalsound} but this is really encouraging because
+Professor B: so I
+Grad E: Yeah , that 's right .
+PhD C: so , I mean the bottom line is even though it 's not a huge amount of data um it should be uh reasonable to actually run recognition and be like within the scope of {disfmarker} of r reasonable s you know Switchboard this is like h about how well we do on Switchboard - two data with the Switchboard - one trained {disfmarker} mostly trained recognizer
+Grad E: Right .
+PhD C: and Switchboard - two is {disfmarker} got sort of a different population of speakers and a different topic
+Grad E: Excellent .
+PhD C: and they 're talking about things in the news that happened after Switchboard - one so there was @ @ so that 's great .
+Professor B: Yeah . Yeah so we 're in better shape than we were say when we did {disfmarker} had the ninety - three workshop
+PhD C: Um
+Professor B: and we were all getting like seventy percent error on Switchboard .
+PhD A: Mm - hmm .
+PhD C: Oh yeah
+Professor B: you know
+PhD C: I mean this is really ,
+PhD A: Mmm .
+PhD C: and thanks to Andreas who , I mean this is a
+PhD A: Mmm .
+Grad E: Well especially for the very first run , I mean you {disfmarker}
+PhD A: Oh it 's the {disfmarker}
+Professor B: Yeah .
+PhD C: eh um
+Professor B: Yeah .
+PhD C: yeah
+Grad E: the first run I ran of Switchboard I got a hundred twenty percent word error but
+PhD C: So and what al also this means is that
+Postdoc G: Right .
+PhD C: um
+Grad E: Not Switchboard ,
+PhD A: Well it 's {disfmarker}
+PhD C: I mean there 's a bunch of things in this note to various people
+Grad E: uh Broadcast News .
+PhD C: especially I guess um with Jane that {disfmarker} that would help for {disfmarker} since we have this new data now uh in order to go from the transcripts more easily to um just the words that the recognizer would use for scoring . I had to deal with some of it by hand but I think a lot of it can be automated s by {disfmarker}
+Professor B: Oh one thing I guess I didn't get so you know the language model was straight from {disfmarker} from bigram from Switchboard the acoustic models were also from Switchboard or {disfmarker} or
+PhD A: Yeah .
+PhD C: Yeah .
+Professor B: So they didn't have anything from this acoustic data in yet ?
+Postdoc G: That 's amazing .
+Grad E: Yeah , so that 's great .
+PhD C: No .
+Professor B: OK .
+PhD C: And actually {disfmarker} we actually um used Switchboard telephone bandwidth models
+Postdoc G: That 's amazing .
+PhD A: Well that 's {disfmarker} those are the only we ones there are ,
+Professor B: Yeah .
+PhD C: which I guess
+PhD D: I was just gonna say ,
+PhD C: so that 's the on that 's the only acoustic training data that we have a lot of
+PhD D: yeah .
+PhD A: I mean
+Grad E: Yeah .
+PhD A: Right .
+PhD C: and I guess Ramana , so a guy at SRI said that um there 's not a huge amount of difference going from {disfmarker}
+Professor B: Right .
+PhD C: it 's {disfmarker} it 's not like we probably lose a huge amount but we won't know because we don't have any full band models for s conversational speech .
+PhD D: It 's probably not as bad as going f using full band models on telephone band speech
+PhD C: So .
+PhD A: Oh yeah .
+PhD C: Right .
+PhD D: right ?
+PhD A: Yeah .
+Professor B: Yeah ,
+PhD C: Right , so it 's {disfmarker} so
+Professor B: but for Broadcast News when we {disfmarker} we played around between the two there wasn't a huge loss .
+Grad E: Right , it was not a big deal .
+PhD C: Yeah
+PhD A: I should {disfmarker} I should say that {disfmarker} the language model is not just Switchboard
+PhD C: so I wou so that 's good .
+Grad E: Although combining em worked well .
+PhD A: it 's also {disfmarker} I mean there 's uh actually more data is from Broadcast News but with a little less weight
+PhD C: Yeah .
+PhD A: uh because
+Professor B: Uh - huh .
+PhD C: Like Trent Lott must have been from
+PhD A: mm - hmm , right .
+PhD C: I guess {vocalsound} Switchboard was before
+PhD A: Um By the way just {disfmarker} for fun we also ran ,
+PhD C: uh .
+Professor B: Good point .
+PhD A: I mean our complete system starts by doing ge a gender detection
+Professor B: Mm - hmm .
+PhD A: so just for the heck of it I ran that
+Grad E: And it said a hundred percent male ?
+PhD A: um and it might be reassuring for everybody to know that it got all the genders right .
+PhD C: The j
+PhD A: Yeah so
+Grad E: Oh it did ?
+Postdoc G: Oh that 's {disfmarker} I 'm glad .
+Grad E: It got all two genders ?
+PhD C: Yeah but you know Jane and Adam have you kn about equal performance
+PhD A: Yeah . Yes .
+PhD C: and uh and that 's interesting cuz I think the {disfmarker} their language models are quite different so and I {disfmarker} I 'm pretty sure from listening to Eric that , you know given the words he was saying and given his pronunciation that the reason that he 's so much worse is the lapel .
+Professor B: Yeah .
+Grad E: Right .
+Postdoc G: That makes a lot of sense ,
+PhD C: So it 's nice now if we can just sort of eliminate the lapel one when {disfmarker} when we get new microphones
+Postdoc G: yeah . Very possible .
+Professor B: Yeah I {disfmarker} I {disfmarker} I would bet on that too
+PhD C: that would be worth it
+Professor B: cuz he certainly in that {disfmarker} when as a {disfmarker} as a burp user he was {disfmarker} he was a pretty uh strong one .
+PhD C: um Yeah
+Grad E: Sheep .
+PhD C: he {disfmarker} he {disfmarker} he sounded to me just from {disfmarker} he sounded like a ,
+Professor B: Yeah .
+PhD C: what 's it a sheep or a goat ?
+Professor B: Sheep .
+Grad E: A sheep .
+PhD C: Sheep ,
+Grad E: Baah .
+Professor B: Yeah . Sheep is good .
+PhD C: right . Sounded good .
+Professor B: Yeah .
+PhD C: Right so um so I guess the good news is that
+Postdoc G: Mm - hmm .
+PhD C: and {disfmarker} and again this is without a lot of the sort of bells and whistles that we c can do with the SRI system and we 'll have more data and we can also start to maybe adapt the language models once we have enough meetings . So this is only twenty minutes of one meeting with no {disfmarker} no tailoring at all .
+PhD A: I mean clearly there are um with just a small amount of uh actual meeting transcriptions uh thrown into the language model you can probably do quite a bit better because the {disfmarker}
+PhD C: Yeah . The voca the vocabulary especially
+Grad E: Or just dictionary .
+PhD C: yeah .
+PhD A: Not that much the vocabulary actually
+PhD C: Yeah , so .
+PhD A: I think {disfmarker} um well we have to see but {disfmarker} it 's uh {disfmarker}
+PhD C: Yeah . It 's pretty good um so then
+Professor B: Have to add PZM and so on
+Grad E: And I have to try it on the far field mike
+Professor B: but
+PhD C: PZM
+Grad E: yeah .
+PhD C: and then there 's things like for the transcription I got when someone has a digit in the transcript I don't know if they said , you know one one or eleven and I don't know if they said Tcl or TCL . there 's things like that where , you know the um we 'll probably have to ask the transcribers to indicate some of those kinds of things but in general it was really good and I 'm hoping {disfmarker} and this is {disfmarker} this is good news because that means the force alignments should be good and if the force alignments , I mean it 's good news anyway but if the force alignments are good we can get all kinds of information . For example about , you know prosodic information and speaker overlaps and so forth directly from the aligned times . Um so that 'll be something that actually in order to assess the forced alignment um we need s some linguists or some people to look at it and say are these boundaries in about the right place . Because it 's just gonna give us time marks
+PhD D: But you know {disfmarker}
+Grad E: Well we 've done that for one meeting .
+PhD C: so . For forced alignment .
+Grad E: Uh oh oh f not for words
+PhD C: Ye - right .
+Grad E: I 'm sorry just for overlaps is we did it for not {disfmarker} not for words .
+PhD C: Right . So this would be like if you take the words um you know and force align them on all the individual close talk uh close talking mikes then how good are these sort of in reality
+Grad E: Right .
+PhD C: and then I was thinking it {disfmarker}
+Grad E: So we might want to take twenty minutes and do a closer word level transcription . Maybe actually mark the word boundaries .
+PhD C: Oh or {disfmarker} i have someone look at the alignments uh maybe a linguist who can say um you know roughly if these are OK and how far away they are .
+Professor B: Yeah .
+PhD C: Um but I think it 's gotta be pretty good because otherwise the word recognition would be really b crummy .
+Grad E: Right , right .
+PhD C: It wouldn't necessarily be the other way around , if the wor word recognition was crummy the alignment might be OK but if the word recognition is this good the alignment should be pretty good . So that 's about it .
+Professor B: I r
+PhD D: I wonder if this is a good thing or a bad thing though , I mean if we 're pr
+Grad E: That we 're starting so well ?
+PhD D: yeah if we 're producing a database that everybody 's gonna do well on
+Professor B: Oh
+Grad E: Don't worry about it w d that 's that 's the close talking mikes . Try it on the P Z Ms and {disfmarker} and
+Professor B: Yeah , which {disfmarker} I would {disfmarker} which {disfmarker} well n n n n
+PhD D: So the real value of the database is these ?
+PhD H: Yeah , yeah , yeah , yeah .
+Grad E: Yeah , abso well no but
+Professor B: I mean there 's still just the w the percentages and , I mean they 're not {disfmarker} a as we 've talked about before there 's probably overlaps
+PhD C: This i yeah . This is not that good .
+Professor B: there 's probably overlaps in {disfmarker} in uh in fair number in Switchboard as well so but {disfmarker} but there 's other phenomena , it 's a meeting , it 's a different thing and there 's lots of stuff to learn with the close talking mikes but uh yeah certainly I 'd like to see as soon as we could , I mean maybe get some of the glitches out of the way but soon as we could how well it does with say with the P Z Ms or maybe even one of the
+PhD C: Right .
+Professor B: and uh see if it 's , you know is it a hundred twenty percent or maybe it 's not maybe if with some adaptation you get this down to fifty percent or forty - five percent or something and {disfmarker} and then if for the PZM it 's seventy or something like that that 's actually something we could sort of work with a little bit
+PhD C: Yeah .
+Professor B: so
+PhD C: No I think it 's really , I mean this way we least have a baseline we know that for instance the transcripts are very good so once you can get to the words that the recognizer which is a total subset of the things you need to understand the {disfmarker} the text um yeah they 're pretty good so and {disfmarker} and it 's converting automatically from the XML to the chopping up the wave forms and so forth it 's not the case that the end of one utterance is in the next segment and things like that which we had more problems with in Switchboard so that 's good . And um let 's see there was one more thing I wanted to {disfmarker} to mention {disfmarker} I can't remember um Sorry can't remember . anyway it 's {disfmarker}
+Postdoc G: Congratulations is really great .
+Professor B: Yeah .
+PhD C: well it was , I mean I really didn't do this myself
+Grad E: Yeah , it 's really good .
+PhD C: so Andreas set up this recognizer and {disfmarker} by the way the recognizer all the files I 'm moving to SRI and running everything there so I brought back just these result files and people can look at them um so
+PhD A: We {disfmarker} we talked about setting up the SRI recognizer here . That 's {disfmarker} you know if {disfmarker} if there are more machines um uh here plus people can {disfmarker} could run their own uh you know variants of {disfmarker} of {disfmarker} of the recognition {pause} runs um certainly doable . Um .
+Professor B: Yeah and {disfmarker} well certainly if the recognition as opposed to training , yeah .
+PhD A: Yeah .
+Professor B: Seems reasonable .
+Postdoc G: I need t Hmm . I need to ask one question .
+PhD A: Yeah .
+Postdoc G: Which is um so this issue {vocalsound} of the uh legalistic aspects of the pre - sent you know pre - adapted {disfmarker} Yeah , well , so what I mean is um the {disfmarker} uh the data that you take into SRI , first {disfmarker} first question , you 're maintaining it in {disfmarker} in a place that wouldn't be publicly readable that {disfmarker} that kind of stuff , right ?
+PhD A: U um
+PhD C: From the outside world or
+Postdoc G: By uh people uh who are not associated with this project .
+PhD A: Oh .
+Grad E: It 's human subjects issues , I told you about that .
+PhD C: Um oh .
+Postdoc G: Exactly .
+PhD C: Well OK we have n no names . Although I sh um
+Grad E: That {disfmarker} that 's not the issue ,
+PhD C: de audio data itself ?
+Grad E: it 's just the audio data itself , until people have a chance to edit it .
+Postdoc G: Mm - hmm , exactly .
+PhD C: Uh so well I can {disfmarker} I can protect my directories through there .
+Postdoc G: Yeah .
+PhD C: Right now they 're not {disfmarker} they 're in the speech group directories which {disfmarker} so I will {disfmarker}
+Postdoc G: Great .
+PhD C: I didn't know that actually .
+Professor B: Yeah so we just have to go through this process of having people approve the transcriptions ,
+PhD C: Yeah OK .
+Professor B: say it 's OK .
+PhD C: Right OK .
+Postdoc G: Yeah , we had to get them to approve em and then i cuz {disfmarker} cuz the other question I was gonna ask is if we 're having um you know it 's but this {disfmarker} this meeting that you have , no problem cuz I {disfmarker} I well I mean I {disfmarker} I speak for myself
+Grad E: It 's us .
+Postdoc G: but {disfmarker} but I think that we didn't do anything that but well anyway so {vocalsound} uh I wouldn't be too concerned about it with respect to that although we should clear it with Eric and Dan of course but these results are based on data which haven't had the uh haven't had the chance to be reviewed by the subjects
+PhD C: That 's true .
+Postdoc G: and I don't know how that stands , I mean if you {disfmarker} if you get fantastic results and it 's involving {comment} data which {disfmarker} which later end up being lessened by , you know certain elisions , then I don't know but I wanted to raise that issue ,
+Professor B: Well we ,
+Postdoc G: that 's all .
+Professor B: I mean once we get all this streamlined it may be sh it {disfmarker} hopefully it will be fairly quick but we get the transcriptions , people approve them and so on it 's just that we 're
+Grad E: Alright we need to work at a system for doing that approval so that we can send people the transcripts
+Postdoc G: Great .
+PhD A: Mmm .
+Postdoc G: Yeah .
+Grad E: and get back any bleeps that they want
+PhD C: Yeah actually the bleeps are also an issue I thought .
+Professor B: It 's gonna be a rare thing that there 's a bleep for the most part .
+PhD A: U uh actually I had a question about the downsampling , um I don't know who , I mean how this was done but is {disfmarker} is there {disfmarker} are there any um {vocalsound} issues with downsampling
+PhD C: Don did this .
+PhD A: because I know that the recognizer um that we use h can do it sort of on the fly um so we wouldn't have to have it eh you know do it uh explicitly beforehand . And is there any um i are there other d sev uh is there more than one way to do the downsampling where one might be better than another ?
+Grad F: There are lots of w {vocalsound} there are lots of ways to do the downsampling um different filters to put on ,
+PhD A: OK . Right . OK .
+Grad F: like anti - aliasing stuff .
+PhD A: So {disfmarker} so the {disfmarker} th
+Grad E: I don't think we even know which one I assume you 're using syncat to do it ?
+Grad F: No , I 'm using uh SN SND uh are resample .
+Grad E: Or sound resample ?
+PhD C: Re - re ref
+Grad E: Resample .
+PhD C: yeah .
+Grad E: Yeah and Dan 's archaic acronyms .
+Grad F: RSMP . Yeah , I don't really .
+PhD C: Missing all the vowels .
+Grad F: I just {disfmarker} yeah I found it .
+PhD C: Some of the vowels ,
+Grad E: Not all of them .
+PhD C: almost all the vowels , that 's the hard part .
+PhD A: So {disfmarker} so the other thing we should try is to just take the original wave forms ,
+Grad E: And a few of the consonants .
+PhD A: I mean segment them but not downsample them .
+PhD C: Yeah we could {disfmarker} we could try that and {disfmarker} and compare
+PhD A: And {disfmarker} and feed them to {disfmarker} feed them to the SRI recognizer and see if {disfmarker} if the SRI front - end does something .
+Grad F: Yeah , that 's {disfmarker}
+PhD C: Yeah .
+Grad E: I suspect that 's sort of premature optimization , but Sure .
+PhD C: We can try it . I {disfmarker} I only downsampled them first cuz I was
+PhD A: Well {disfmarker}
+Grad F: I mean that 's just one line {disfmarker} that 's one line of code to comment at
+PhD C: yeah
+PhD A: Right and {disfmarker} and it doesn't {disfmarker} is no more work {vocalsound} for um you know for us .
+Grad F: so
+Grad E: Mm - hmm .
+Grad F: Yeah .
+PhD C: Well they 're just bigger to transfer , that 's why I s downsampled them before but
+PhD A: Well but they 're only twice as big so
+PhD C: Well I mean that was {disfmarker} if it 's the same then we can downsample here
+PhD A: I mean it 's {disfmarker} it 's just a
+PhD C: but if it 's {disfmarker}
+Grad F: Although those eighty meg files take a while to copy into my directories
+PhD C: Yeah .
+Grad F: so , but no , I mean it 's not {disfmarker} i it wouldn't be a problem if you 're interested in it {disfmarker}
+PhD C: We could try that .
+PhD A: Yeah I mean it would be uh you know it would probably take uh about um you know
+Grad F: it would {disfmarker}
+PhD A: minus the transfer time it would {disfmarker} it would take uh you know ten minutes to try and {disfmarker} and {disfmarker} and
+Grad F: Yeah .
+Grad E: It 's about a fifty minute drive , right ?
+PhD A: And {disfmarker} and if for some reason we see that it works better then we might investigate why
+PhD C: Well it takes more disk space too so I was just {disfmarker}
+PhD A: and , you know , what {disfmarker} Yeah .
+Grad F: Mmm . In the front - end we could do that .
+PhD A: Yeah .
+Professor B: So you just train {disfmarker} just different filters
+Grad F: Yeah , I {disfmarker}
+Professor B: and so you 're just wondering whether the filter is
+Grad F: Yeah , I can imagine it would be {disfmarker}
+PhD A: Right . Right .
+PhD C: So we could try that with this particular twenty minutes of speech and sort of see if there 's any differences .
+Grad F: I mean I guess there 's some {disfmarker}
+PhD A: You know a at some point someone might have optimized whatever filtering is done for the actual recognition um performance .
+Grad F: Hmm .
+PhD A: So in other words right ,
+Professor B: Right .
+PhD A: so
+Grad E: It just seems to me that , you know small changes to the language model and the vocabulary will so swamp that that it may be premature to worry about that . I mean so one is a half a percent better than the other I don't think that gives you any information .
+PhD C: Well it 's just as easy to {disfmarker} to give you the sixteen K individual ,
+Grad E: Yep .
+PhD C: it was just more disk space you know for storing them
+Professor B: Are you {disfmarker} are you using uh uh mel cepstrum or PLP over there ?
+PhD C: so
+PhD A: Mel cepstrum .
+Professor B: So probably doesn't matter .
+PhD C: Well we could try .
+Grad F: There 's {disfmarker} there 's your answer .
+Professor B: But {disfmarker} but it wouldn't hurt to try ,
+PhD C: Could easily try
+PhD A: That 's what I would assume but you never know ,
+Professor B: yeah .
+PhD C: so
+PhD A: you know .
+Professor B: Sure . No the reason I say this
+Postdoc G: Just {disfmarker} Mm - hmm .
+Professor B: PLP uses uh auto - regressive filtering and uh modeling and so it can be sensitive to the kind of filtering that you 're doing
+PhD A: Mm - hmm .
+Professor B: but uh uh mel cepstrum uh might not {disfmarker} b you wouldn't expect to be so much but
+PhD C: Well we can try it if you generate like the same set of files just up to that point where we stopped anyway and just sti stick them somewhere
+Grad F: Yeah , it 's {disfmarker} it 's really not a problem .
+PhD A: Actually , no .
+PhD C: and I 'll rerun it with
+PhD A: Don't stop . Don't stop at that part because we 're actually using the entire conversation to estimate the speaker parameters ,
+Grad F: Keep going . Yeah .
+PhD A: so shouldn't use {disfmarker} you should s you know , get
+Grad F: Yeah , I mean I 'll {disfmarker} I have to do is eh e the reference file would stay the same ,
+PhD C: OK .
+PhD A:  Right .
+Grad F: it 's just the individual segments would be approximately twice as long
+PhD A: Mmm .
+PhD C: Right . Right .
+Grad F: and I could just replace them with the bigger ones in the directory ,
+PhD A: Right .
+PhD C: I mean I corrected all {disfmarker}
+Grad E: Yeah .
+Grad F: that 's not a problem .
+PhD C: I mean I hand - edited the whole {disfmarker} the whole meeting so that can be run it 's just {disfmarker} Once we get the {disfmarker} the bug out .
+PhD A: Mmm .
+Postdoc G: One {disfmarker} one question which is I {disfmarker} I had the impression {comment} from this {disfmarker} from this meeting that w that I transcribed that um that there was already automatic downsampling occurring ,
+PhD A: Yeah . Mm - hmm .
+Postdoc G: is that I thought that in order to
+Grad E: Yep .
+Postdoc G: so it was {disfmarker} so it 's like there 's already down
+Grad E: There 's one level that 's already happening right here .
+Professor B: This is being recorded at forty - eight kilohertz . Which is more that anybody needs
+Postdoc G: OK .
+Grad E: Right .
+Grad F: Oh .
+Grad E: And it gets downsampled to sixteen .
+Postdoc G: OK .
+Professor B: so
+PhD C: And that 's actually said in your meeting ,
+Grad F: Hmm .
+Postdoc G: Oh OK .
+PhD C: that 's how I know that .
+Postdoc G: That 's exactly , and that 's how I know it .
+Professor B: Yeah .
+PhD C: I {disfmarker} I {vocalsound} It 's like are we downsampling to sixteen ?
+Professor B: It 's a digital audio orientation for the board
+PhD C: Right .
+PhD A: Mmm .
+Professor B: it 's in the monitor so it 's
+PhD C: Thank God it 's not {vocalsound} more than that .
+Grad E: So {disfmarker}
+Professor B: Yeah .
+Grad E: And I have no idea what filter it 's using ,
+Grad F: Is eight kilohertz {disfmarker} is {disfmarker} is eighty kilohertz generally accepted as like standard for voice ?
+Grad E: so
+Professor B: For telephone stuff .
+Grad E: Telephone .
+PhD D: Telephone .
+Grad F: Yeah that 's what I was gonna say , I mean like {disfmarker}
+Professor B: So it 's {disfmarker} it 's {disfmarker} it 's just that they were operating from Switchboard which was a completely telephone database
+Grad F: so Oh , I see , so .
+Professor B: and so that was a standard for that sixteen s
+Grad F: OK .
+Grad E: So sixteen seems to be pretty typical for with this sort of thing .
+Professor B: Sixteen is more common for {disfmarker} for uh broadband stuff that isn't {disfmarker}
+Grad F: Right .
+Grad E: That isn't music .
+Professor B: that isn't music and isn't telephone ,
+PhD C: And I guess if you 're comparing like {disfmarker} uh if you wanna run recognition on the PZM stuff you would want you don't want to downsample the wh that
+Professor B: yeah .
+Grad E: Why is that ?
+Professor B: I don't know .
+PhD C: right ? Well I don I mean if it 's any better
+Professor B: No actually I would think that you would {disfmarker} you would get better {disfmarker} you 'd get better high frequencies in the local mike .
+Grad E: All the way around I 'd think .
+Professor B: Uh but who knows ? I mean we do {vocalsound} we {disfmarker} we {disfmarker} we {disfmarker} we {disfmarker} we wanna find all this stuff out ,
+PhD C: Yeah well we could try it .
+Grad E: Yeah .
+Professor B: we don't know .
+Grad E: We 're gonna have plenty of low frequency on the P Z Ms with the fans .
+PhD C: OK . Yeah .
+Professor B: Uh yeah . Yeah .
+PhD C: Oh yeah there was just one more thing I wanted to say which is totally unrelated to the recognition except that um well {disfmarker} well it 's sort of related but um good news also uh I got {disfmarker} well Chuck Fillmore agreed to record meetings but he had too many people in his meetings and that 's too bad cuz they 're very animated and but uh Jerry also agreed so uh we 're starting on {disfmarker} on
+PhD A: They 're less animated .
+PhD C: Well but he has fewer {disfmarker} he {disfmarker} he won't have more than eight and it 's a meeting on even deeper understanding , EDU , so that sounds interesting . As a compliment to our front - end meeting
+Grad E: Dot EDU ?
+PhD C: and um so that 's gonna start Monday and one of the things that I was realizing is um it would be really great if anyone has any ideas on some kind of time synchronous way that people in the meeting can make a comment to the person whose gonna transcribe it or {disfmarker} or put a {vocalsound} push a button or something when they wanna make a note about " oh boy you should probably erase those last few " or uh " wait I want this not to be recorded now " or uh something like that s
+Professor B: Weren't we gonna do something with a pad at one point ?
+Postdoc G: The cross pads ?
+Grad E: Yeah , we could do it with the cross pads .
+PhD C: Cuz I was thinking you know if {disfmarker} if the person who sets up the meeting isn't there and it 's a group that we don't know um and this came up talking to {disfmarker} to Jerry also that you know is there any way for them to indicate {disfmarker} to make sure that the qu request that they have that they make explicitly get addressed somehow
+Professor B: Yeah .
+PhD C: so I don't know if anyone has ideas or {disfmarker} you could even write down " oh it 's about three twenty five and " {disfmarker}
+Professor B: Well what I was just suggesting is {disfmarker} is we have these {disfmarker} this cross pad just for this purpose
+Grad E: Yeah , and use that .
+Professor B: and just use that
+Grad E: Not a bad idea .
+Professor B: and if we sink it in {disfmarker}
+PhD C: That would be great .
+Professor B: The other thing is eh
+PhD C: That be great .
+Professor B: I don't know if you know this or if it 's a question for the mail to Dan but is this thing of two eight channel boards a maximum for this setup or could we go to a third board ?
+Grad E: I don't know . I don't know . I 'll send mail to Dan and ask . I {disfmarker} I think that it 's the maximum we can do without a lot of effort because it 's one board with two digital channels .
+Professor B: Oh it is one board .
+Grad E: E eight each . So it {disfmarker} it takes two fibers in to the one board . And so w I think if we wanna do that {disfmarker} more than that we 'd have to have two boards , and then you have the synchronization issue .
+Professor B: But that 's a question because that would {disfmarker} if it was possible cuz it is i you know already we have a {disfmarker} a {disfmarker} a group of people in this room that cannot all be miked
+Grad E: Right .
+Professor B: and it 's not just cuz we haven't been to the store , right it 's {disfmarker}
+PhD D: What is the limit on each of those f fiber channels , is it the
+Grad E: Eight .
+PhD D: It just {disfmarker} it 's eight channels come in , does it have do with the sampling rate ?
+Grad E: It 's eight . I have no idea . But each {disfmarker} each fiber channel has eight {disfmarker} eight channels and there are two ch two fibers that go in to the card .
+Professor B: It might be a hard limitation ,
+Grad E: So
+Professor B: I mean one thing is it {disfmarker} the whole thing as I said is {disfmarker} is all structured in terms of forty - eight kilohertz sampling so that pushes requirements up a bit
+Grad E: Yeah .
+Professor B: but
+PhD D: I was just wondering if {disfmarker} if that could change .
+Grad E: I mean then we 'd also have to get another ADD and another mixer and all that sort of stuff .
+PhD D: If we could drop that .
+Professor B: Yeah .
+Grad E: So I {disfmarker} I 'll send a mail to Dan and ask him .
+Professor B: Yeah .
+Grad E: OK on the uh are we done with that ? So the oth topic is uh getting more mikes and different mikes , so I got a quote um We can fit {disfmarker} we have room for one more wireless and the wireless , this unit here is three fifty {disfmarker} three hundred fifty dollars , it {disfmarker} I didn't realize but we also have to get a tuner {disfmarker} the receiver {disfmarker} the other end , that 's uh four thirty um and then also
+PhD C: For {disfmarker} for each ?
+PhD D: Wow .
+PhD C: I mean the tuner is four thirty for each .
+Grad E: Yep .
+PhD C: Wow .
+Grad E: And we just need one more so {disfmarker} so
+Professor B: Yeah at least w we got the good ones .
+Grad E: Yeah . So that 's you know something like seven hundred eighty bucks for one more of these .
+Professor B: Yeah . OK .
+Grad E: Um and then also um It turns out that the connector that this thing uses is proprietary of Sony
+PhD D: Oh .
+Grad E: believe it or not and Sony only sells this headset .
+Postdoc G: Mmm .
+Grad E: So if we wanna use a different set {disfmarker} headset the solution that the guy suggested and they {disfmarker} apparently lots of people have done is Sony will sell you the jack with just wires coming out the end and then you can buy a headset that has pigtail and solder it yourself . And that 's the other solution and so the jacks are forty bucks apiece and the {disfmarker} he recommended um a crown CM three eleven AE headset for two hundred bucks apiece .
+Professor B: There isn't this some sort of thing that plugs in , you actually have to go and do the soldering yourself ?
+Grad E: Becau - the reason is the only {disfmarker} only thing you can get that will plug into this is this mike or just the connector .
+Professor B: No I understand . The reason I ask is these sort of handmade uh wiring jobs fall apart in use so the other thing is to see if we can uh get them to do a custom job and put it together for this .
+Grad E: Oh I 'm sure they would , they would just charge us ,
+PhD D: Well , and they 'd probably want quantity too ,
+Grad E: so .
+Professor B: Well
+PhD D: they 'd
+Professor B: no they 'll just charge us more , so it 's {disfmarker} this
+PhD D: Mmm .
+Grad E: So {disfmarker} so my question is should we go ahead and get na nine identical head - mounted crown mikes ?
+Professor B: Not before having one come here and have some people try it out .
+Grad E: OK .
+Professor B: Because there 's no point in doing that if it 's not gonna be any better .
+Grad E: So why don't we get one of these with the crown with a different headset ?
+Professor B: Yeah .
+Grad E: And {disfmarker} and see if that works .
+Professor B: And see if it 's preferable and if it is then we 'll get more .
+PhD C: Comfort .
+Grad E: Yeah .
+Professor B: Yeah .
+PhD C: Cuz I mean I think the microphones are OK it 's just the {disfmarker} the
+Grad E: Right , it 's just they 're not comfortable to wear .
+Professor B: Right .
+PhD C: Could make our own handbands and
+Grad E: Um , and he said they don't have any of these in stock but they have them in LA and so it will take about a week to get here .
+Professor B: Yeah well it 's {disfmarker}
+Grad E: Um so OK to just go order ?
+Professor B: We 're in this for the long term , yeah . Just order it .
+Grad E: OK
+PhD C: It 's a lot of money for a handband .
+Grad E: and who is the contact if I wanna do an invoice
+Grad F: Yeah .
+Grad E: cuz I think that 's how we did it before .
+Professor B: Uh we 'll do this off - line , yeah .
+Grad F: It 's a long time to get from LA .
+Grad E: OK . And then nine channels is the maximum we can do , so .
+Professor B: Uh y right cuz {disfmarker} so one is for the daisy chain so that 's fifteen instead of sixteen
+Grad E: Without getting more stuff .
+Professor B: and there 's six on the table so that 's nine .
+Grad E: Right .
+PhD C: Can I ask a really dumb question ?
+Professor B: Yeah .
+PhD C: Is {disfmarker} {vocalsound} is there any way we can have you know like a {disfmarker} a wireless microphone that you pass around to the people who you know the extra people for the times they wanna talk that {disfmarker}
+Grad E: Probably .
+Professor B: That 's a good idea .
+PhD C: I mean {disfmarker}
+Professor B: That 's not a dumb question , it 's a good idea ,
+PhD C: Well I mean {disfmarker}
+PhD A: Like uh like you know Jerry Springer thing ,
+Professor B: yeah .
+Grad E: I 'm just not sure how we would handle that in the
+Grad F: That 's like the Conch .
+PhD C: Well but {disfmarker}
+PhD D: Like at conferences
+PhD A: you know r
+PhD C: well but there might be a way to say that there are gonna be these different people
+Grad F: See , look .
+PhD C: um and I don't know identifying somehow ?
+PhD D: so nail the chairs down .
+PhD A: Yeah .
+Grad E: Yeah , somehow .
+PhD C: You know I was just thinking of Jerry Springer .
+Grad E: It 's not a bad idea .
+Professor B: No that {disfmarker} no {disfmarker} no
+PhD A: 
+Professor B: that 's a very {disfmarker} if we can't get another board and even if we can I have a feeling they 'll be some work .
+PhD D: The Springer mike .
+PhD C: I mean for the few times that you might wanna have that .
+Professor B: Let 's figure that we have eight which are set up and then there 's a ninth which is passed around to {disfmarker}
+Grad E: A hand - held , yeah .
+Professor B: that 's a good idea
+PhD D: Infinite expansion .
+Professor B: Right . Kind of rules out overlap but {disfmarker} {vocalsound} but uh
+PhD C: Well or also for you know if people are not
+Professor B: Yeah .
+Grad E: Well we could just hand around the lapel .
+Professor B: Uh no {disfmarker} no that 's {disfmarker}
+Grad E: Rather than get a {disfmarker}
+PhD C: No not the lapel .
+Grad E: do you want a handset ?
+Professor B: No .
+Grad E: Well I mean is the {disfmarker} is the hand - held really any better ?
+PhD D: Liz hates the lapel .
+Professor B: Yes .
+PhD C: I don't know
+Grad E: OK .
+PhD C: but I d I know the lapel is really suboptimal .
+Professor B: No it {disfmarker} no it depends on the hand - held
+Grad E: Is awful ?
+Professor B: but hand {disfmarker} many hand - helds are built wi with sort of uh anti - shock sort of things so that it {disfmarker} it is less uh susceptible to hand noises . If you hold the lapel mike i you just get all k sorts of junk .
+PhD D: Mm - hmm .
+PhD C: Right . I mean the ones they really pass around must be sort of OK .
+Grad E: OK .
+Professor B: so
+Grad E: So I wonder if they have one that will hook up .
+Professor B: Yeah . They have {disfmarker} What ?
+Grad E: I wonder if they have one that will hook up to this or whether again we 'll have to wire it ourselves .
+PhD D: Well , you wouldn't want it to hook there you 'd just want it to hook into the receiver in the other room , right ?
+Professor B: No that 's uh {disfmarker} you need a transmitter .
+Grad E: What ?
+PhD D: Is th isn't that built into the mike ?
+Professor B: Oh I see . Get a {disfmarker} get a different radio , yeah .
+PhD C: Yeah just these ones that they pass around with no you know wireless
+Professor B: Yeah . But you need a ra but it has to correspond to the receiver .
+PhD D: Have a little antenna coming out the bottom .
+Grad E: It 's gonna be much easier to get one of these and just plug in a mike , isn't it ?
+PhD D: But then the mike has to h
+PhD A: Do you have to hand it around and if you have two pieces of
+Professor B: No no {disfmarker}
+PhD C: Right .
+Grad F: Yeah .
+PhD A: 
+Professor B: so right , so this is a good point , so yeah you have these {disfmarker} these mikes with a little antenna on the end right ?
+Grad E: OK . And do you think you would be able to use the same receiver ?
+Professor B: I don't know . You 'll have to check with them ,
+Grad E: OK I 'll {disfmarker} I 'll ask .
+Professor B: yeah . But that 's {disfmarker} that 's a great idea
+PhD D: It 's just a frequency .
+Grad E: Yeah .
+Professor B: and then just sort of have that as the {disfmarker} and then you can have groups of twenty people or whatever and {disfmarker} and uh
+PhD C: Yeah because there 's only I mean as Andreas pointed out actually I think in the large {disfmarker} the larger the group the less interaction {disfmarker} the less people are talking um over each other {disfmarker}
+PhD A: Pretty soon .
+PhD D: Mmm , yeah .
+PhD C: it just {disfmarker} there might be a lot of people that speak once or twice and
+Professor B: Right .
+PhD A: Um Gotta go .
+Professor B: Off you go , yeah .
+Grad E: OK so I guess people who have to leave can leave and do we have anything else to discuss or should we just do digits ?
+Postdoc G: I {disfmarker} I thought of some extra {disfmarker} a couple of extra things I 'd like to mention .
+Grad E: OK .
+Postdoc G: One of them is to give you a status in terms of the transcriptions so far . So um as of last night um I 'd assigned twelve hours and they 'd finished nine
+Grad E: uh Yep ,
+Postdoc G: and my goal was to have eleven done by the end of the month , I think that by tomorrow we 'll have ten .
+PhD C: Uh it 's great {disfmarker}
+Professor B: Pretty close ,
+Postdoc G: So they 're still working .
+Professor B: that 's good .
+PhD C: I j and this {disfmarker} I got this email from Jane at like two in the morning or something
+PhD D: Wow .
+Grad E: that 's good .
+PhD C: so it 's really great
+Postdoc G: It 's working out , thanks .
+PhD C: It 's really great .
+Postdoc G: Thanks . And then um also an idea for another meeting , which would be to have the transcribers talk about the data It 's sort of a {disfmarker} a little bit {disfmarker} a little bit
+PhD C: That 's a great idea .
+Professor B: Super idea .
+Grad E: Yep , that 'd be very interesting .
+PhD C: That 's a great idea cuz I 'd like to g have it recorded so that we can remember all the little things ,
+Grad F: Yeah .
+Grad E: I 'd love to hear what they have to say .
+Postdoc G: Yeah .
+PhD C: that 's a great idea .
+PhD D: So if we got them to talk about this meeting , it would be a meta {disfmarker} meta meeting .
+Postdoc G: Yeah . Yeah , exa {vocalsound} exactly I guess {disfmarker} nested several layers ,
+Professor B: Now you have eight transcribers and there 's ten of us
+Postdoc G: but
+Professor B: so how do we do this , is the only thing .
+PhD C: Or just have them talk amongst themselves .
+PhD D: Have them have their own meeting .
+PhD C: And have
+Postdoc G: Well that 's what I 'm thinking ,
+Professor B: Oh .
+Postdoc G: yeah . Have them talk about the data and they {disfmarker} and they 've made observations to me
+PhD C: that would be great .
+Postdoc G: like they say uh you know this meeting that we think has so much overlap , in fact it does but there are other groups of similar size that have very little , you know it 's part of it 's {disfmarker} it 's the norm of the group and all that and they have various observations that would be fun , I think .
+PhD C: That 's a great idea .
+Grad E: Yeah , I 'd like to hear what they s say .
+Postdoc G: Yeah .
+PhD C: Be great .
+Professor B: So maybe we could {disfmarker} they could have a meeting more or less without us that {disfmarker} to do this and we should record it
+Postdoc G: OK .
+Professor B: and then maybe one or two of them could come to one of these meetings and {disfmarker} and could you know could tell us about it .
+Postdoc G: Yeah .
+Grad E: Give us a status .
+PhD C: Yeah .
+Postdoc G: Oh good . OK .
+Professor B: Yeah .
+PhD C: It 's {disfmarker} they will get to transcribe their own meeting but they also get paid for having a break
+Grad E: That would be weird .
+Postdoc G: What {disfmarker} what yeah that 's right .
+PhD C: and I think that 's a good idea ,
+Postdoc G: Yeah exactly , yeah .
+Professor B: Yeah .
+PhD C: get them involved .
+Postdoc G: Great .
+PhD C: Um that 's a great idea .
+Postdoc G: Great .
+Professor B: Super .
+PhD C: I 'm really sorry I have to g no I have to go as well .
+Professor B: OK .
+Postdoc G: And then I wanted to also um say something about the Fiscus uh uh John {disfmarker} John Fiscus visit tomorrow . And Which is to say that w it 'll be from nine to one that I 'm going to uh uh offer the organization {disfmarker} allow him to uh adjust it if he wishes but to be basically in three parts , the acoustic part coming first which would be basically the room engineering aspects um other things and he 'll be also presenting what NIST is doing and {disfmarker} and uh then uh number two would be sort of a the {disfmarker} the transcription process so this would be a focus on like presegmentation and the modifications to the {disfmarker} the multitrans interface which allows more refined encoding of the beginnings and ends of the overlapping segments which uh Dave Gelbart 's been doing and then um uh and of course the presegmentation Thilo 's been doing and then um the third part would {disfmarker} and again he has some stuff that 's i relevant with respect to NIST and then the third one would be focus on transcription standards so at NIST he 's interested in this establishment of a global encoding standard I guess I would say and I want it , you know k yeah see what they 're doing and also present what {disfmarker} what we 've chosen as ours and {disfmarker} and discuss that kind of thing . And so but he 's only here until until one and actually we 're thinking of noon being uh lunch time so basically hoping that we can get as much of this done as possible before noon . S
+Professor B: OK .
+Postdoc G: And everybody who wants to attend is welcome . So
+Grad E: Oh , where you 're gonna meet ?
+Postdoc G: yeah . Here mostly but I 've also reserved the BARCO room um eh to figure out how that works in terms of like maybe having a live demonstration .
+Professor B: OK but the nine o ' cl nine o ' clock will be i be in here . Yeah , OK .
+Postdoc G: Yeah . Mm - hmm .
+Grad E: I assume we 're not gonna try to record it ?
+Postdoc G: Oh I think that would be hard , yeah .
+Professor B: Yeah , I think just adds {disfmarker}
+Grad E: Alright .
+Postdoc G: Yeah .
+Professor B: Um good .
+Postdoc G: Thank you though , uh - huh .
+Professor B: So maybe do digits and recess ?
+Grad E: Unless there 's anything else ?
+Postdoc G: Yeah . Yeah .
+PhD D: Do digital ones ?
+Professor B: Uh OK .
+Postdoc G: Yeah .
+Grad E: Uh should y we make him wear Andreas ' mike or would that just be too confusing ?
+Professor B: Yeah . No I don't think it 's confusing . Well , it doesn't confuse me .
+Postdoc G: When we do this in the key {disfmarker} in the key {disfmarker} in the key it has to indicate that channel change ,
+PhD D: Does it mess up the forms ?
+Postdoc G: right ?
+Grad E: Uh yeah I just don't know how we would do that , so . I mean other than free {disfmarker} free form .
+Postdoc G: Well i have a time mark .
+PhD D: The on switch is here on the {disfmarker} on the top there .
+Postdoc G: Yeah .
+Professor B: OK .
+Grad E: And just clip it to your collar .
+Professor B: That 's fine .
+Grad J: OK , my name is uh Espen Eriksen . I 'm a Norwegian . Um uh this is my second semester at Berkeley . Currently I 'm taking uh my first graduate level courses in DSP and um when I come back to Norway I 'm gonna continue with the {disfmarker} more of a research project work {disfmarker} kind of work . So this semester I 'm starting up with a {disfmarker} with a small project through uh Dave Gelbart which I 'm taking a course with I got in touch with him and he told me about this project . So with the help of uh Dan Ellis I 'm gonna do small project associated to this . What I 'm gonna try to do is uh use {disfmarker} use ech echo cancellation to uh to handle the periods where you have overlapping talk . To try to do something about that . So currently I 'm um I 'm just reading up on echo cancellation , s looking into the theory behind that and then uh hopefully I get some results . So it {disfmarker} it 's a {disfmarker} it 's a project goes over the course of one semester .
+Grad E: Great .
+Grad J: So I 'm just here today to introduce myself . Tell about I 'll be {disfmarker} I 'll be working on this .
+Grad E: And are you staying at Berkeley or is {disfmarker} are you just here a semester ?
+Grad J: This is my second semester and last .
+Grad E: Ah second and last ,
+Professor B: Yeah .
+Grad E: OK .
+Grad J: So I leave
+Professor B: He 's in the {disfmarker} he 's in the cour two two five D course .
+Grad J: Yeah , I 'm in Morgan 's course ,
+Professor B: So , yeah .
+Grad J: yeah .
+Grad E: Good .
+PhD D: Welcome .
+Postdoc G: Then you {disfmarker} then you go back to Norway , that 's OK .
+Grad J: Yeah .
+Grad F: We were just talking about something like this yesterday or yeah yesterday with Liz . About doing some of the {vocalsound} echo cancellation stuff or possibly the spectroanalysis over the overlaps , so . Cool .
+Grad J: Yeah .
+Professor B: OK ,
+Grad E: Digits ?
+Professor B: let 's do digits . OK .
+Grad E: And stop .
+
+Query:
+Summarize what was said about the microphone data
+
+Answer:

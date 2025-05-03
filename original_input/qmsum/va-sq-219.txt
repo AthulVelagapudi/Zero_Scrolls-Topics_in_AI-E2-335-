@@ -1,0 +1,321 @@
+You are given a meeting transcript and a query containing a question or instruction. Answer the query in one or more sentences.
+
+Transcript:
+User Interface: .. .
+Project Manager: Okay . So , this is uh first meeting of this design project . Um and I um like to show you the agenda for the meeting , I don't know if it was sent round to all of you .
+User Interface: Mm , yeah .
+Project Manager: Maybe not . Anyway ,
+User Interface: I didn't receive it yet {vocalsound} .
+Project Manager: this is the the plan for today's meeting is um firstly just to introduce the project briefly , um although I'm sure you've actually got some of the information already . Then the main purpose is to {disfmarker} so that we get to know each other a little bit more .
+Industrial Designer: Mm-hmm .
+Project Manager: Um then we want to practice using some of the tools that we'll be using during the the course of the design project and the meetings , um specifically the whiteboard over there . Um then we need to go through the specifics of our project plan um and discuss {disfmarker} come up with some preliminary ideas about it . And then that's it . So we've got twenty five minutes to do that , that's until eleven twenty five .
+Industrial Designer: {vocalsound} {gap} so sh
+Project Manager: S so any any questions ?
+Industrial Designer: {gap} {vocalsound} {gap} .
+Project Manager: Is i {gap} not at this point .
+User Interface: Not at this point .
+Project Manager: So this is our project . What we're aiming to do is to create a new remote control for a television . Um we want it to be something original , something trendy and also something user friendly , so it has to be quite intuitive that people are able to use this product . The method that we're going to use to complete the project , that has three components as such . There's the functional design of the the remote control . We're going {disfmarker} the way we'll do that I think is to to work individually initially and then come together for meetings to to work on that . Um similarly with the conceptual design , we'll start off by working individually with our own expertise on our own laptops and then we'll bring what we've done together . Um and then the detailed design will come after that . We'll pull it all together .
+Industrial Designer: I'm a bit confused about uh what's the difference between the functional design and conceptual design ? Uh i is it just uh more detail , uh as I understand it ?
+Project Manager: I think it {disfmarker} th w we're talking the the functional design is more your um area of things where you'll be {disfmarker} we want to look at what functions we need in the remote control
+Industrial Designer: Right .
+Project Manager: and what what specific things it it has to do
+Industrial Designer: {gap}
+Project Manager: but the conceptual design is um perhaps bigger than that and includes the {disfmarker} how people are going to use it and and that kind of thing .
+Industrial Designer: How how it will be done . So whe where do we identify the components of our uh product ? Uh I think it's it's in the conceptual design phase that we identify the {disfmarker} it's in the conceptual design phase that we identify the components of our product ?
+Project Manager: Um I think we'll we'll start that initially with the functional design already but then
+Industrial Designer: Okay .
+Project Manager: {disfmarker} yeah . Okay , so that's just a brief overview of the p the the project itself . Um what I'd like us to do now is simultaneously introduce ourselves and start using some of the tools that we're using for {vocalsound} for the project , specifically the whiteboard .
+Industrial Designer: Hmm .
+Project Manager: So each person in turn , I'd like us to go up to the whiteboard , the pen's just underneath it there and draw your favourite animal and then tell everyone what the f your favourite characteristics of that animal are and while you're doing that tell us your name , what your role is and perhaps how your animal relates to the role that you're taking in this project . {vocalsound}
+Industrial Designer: {vocalsound}
+Marketing: Why are you looking at me ?
+User Interface: {vocalsound}
+Marketing: {vocalsound}
+Project Manager: Would you like to go first ? {vocalsound}
+Marketing: {vocalsound} Do I have a choice ? {vocalsound}
+Industrial Designer: {vocalsound}
+Marketing: Okay . Ooh ooh , things falling everywhere .
+Project Manager: Oh , yeah ,
+Marketing: Right , okay .
+Project Manager: p put them in pockets .
+Marketing: Cool . Okay .
+Project Manager: You don't have to hurry , we've got plenty of time .
+Marketing: So , my name's Cat and I'm really not very good at this whole drawing malarkey
+Industrial Designer: {vocalsound}
+Project Manager: {vocalsound}
+Marketing: so um {disfmarker}
+User Interface: {vocalsound}
+Marketing: Okay .
+User Interface: {vocalsound}
+Industrial Designer: {vocalsound}
+Project Manager: It's got no eyes .
+Marketing: Oh , good point . Ah , the eyes always ruin it . Right . Okay , what do {gap} it's eyes like ? Okay , cool . Um this is a rabbit . {vocalsound}
+Industrial Designer: {vocalsound}
+Project Manager: {vocalsound} I thought it might be a cat . {vocalsound}
+User Interface: {vocalsound} Yeah well origi uh at first I thought it was going to be cat . {vocalsound}
+Industrial Designer: {vocalsound}
+Project Manager: {vocalsound}
+Marketing: Yeah , I don't think it's furry enough , so we'll make it a fluffy rabbit .
+User Interface: Yeah now I now I understand now , yeah . {vocalsound}
+Industrial Designer: {vocalsound}
+Project Manager: {vocalsound} Yeah I can see by the ears .
+User Interface: Yeah .
+Marketing: Okay , right , it's a fluffy rabbit , blue .
+Industrial Designer: {vocalsound}
+Marketing: Rabbits don't come in blue but you know .
+Industrial Designer: {vocalsound}
+Marketing: Um okay and I like it because it's small {vocalsound} and it's fluffy .
+Project Manager: {vocalsound}
+Industrial Designer: {gap}
+Project Manager: Mm .
+Industrial Designer: {vocalsound}
+User Interface: {vocalsound}
+Marketing: And one day you'll be able to getical genetically modify them and they will come in pink .
+Industrial Designer: {vocalsound}
+Project Manager: {vocalsound}
+User Interface: Ah . {vocalsound}
+Marketing: {vocalsound} Okay ?
+Industrial Designer: Mm .
+Project Manager: Excellent , and what's your what's your role within the team ?
+Marketing: I am the um {disfmarker} I need my notebook , mm ooh {vocalsound}
+Industrial Designer: {vocalsound}
+Marketing: top banana . Thank you . Okay , cool , I am the Marketing Expert {vocalsound} um so like I'm gonna be doing the {disfmarker} apparently according to the little guy in the computer that knows everything {disfmarker} the user g requirements specification of the functional design , um trend watching in the conceptual design and product evad-valuation in the detailed design {vocalsound}
+Project Manager: {vocalsound}
+Industrial Designer: Mm-hmm . Okay .
+Project Manager: Mm-hmm .
+Marketing: um so yeah .
+Industrial Designer: 'Kay .
+Project Manager: And more about yourself , you're from ?
+Marketing: Um I'm from Leicester ,
+Project Manager: Mm-hmm .
+Marketing: um second year . Um what else do you want to know ?
+Industrial Designer: {vocalsound}
+Marketing: I like sports {vocalsound} um yeah , aerobics , kickboxing , spinning
+Project Manager: {vocalsound}
+Marketing: um {vocalsound} and uh {disfmarker}
+Project Manager: But not with rabbits . {vocalsound}
+Marketing: not with rabbits , no no .
+Industrial Designer: Mm .
+Marketing: And vets , I like vets as well .
+Industrial Designer: {vocalsound}
+Marketing: {vocalsound} And yeah um and I like cocktails , especially pink ones .
+Industrial Designer: {vocalsound} Cool .
+Marketing: Okay ? Cool . {vocalsound}
+Project Manager: Excellent , to match the rabbit . {vocalsound}
+User Interface: {vocalsound} {vocalsound} Okay . Um so my name is Maarika . Where's the pen ? Okay .
+Project Manager: There's a {disfmarker} an {disfmarker} if you have not enough room there's an eraser there and you can rub it off .
+User Interface: Yeah , well , or I can make it smaller . {vocalsound} Uh so um um I'm the Interface Designer in this project and my favourite animal , I m I mean I'm not so sure because I'm not so so very um {vocalsound} familiar with all kinds of animals , but I do like dogs .
+Project Manager: {vocalsound}
+User Interface: Oh , sorry , maybe I should have {disfmarker} shouldn't have said it beforehand but
+Industrial Designer: Mm .
+User Interface: mm {vocalsound} hmm .
+Project Manager: {vocalsound}
+Industrial Designer: {vocalsound}
+Marketing: {vocalsound}
+User Interface: Um well , there are different kinds of dogs , but okay um .
+Industrial Designer: {vocalsound}
+User Interface: {vocalsound} {vocalsound}
+Industrial Designer: {vocalsound} That's not bad at all .
+Project Manager: Ah it looks like a dog .
+Industrial Designer: {vocalsound} Yep .
+Marketing: Is a bit more impressive than my rabbit .
+User Interface: Okay .
+Marketing: I think it needs four legs if it's gonna walk though .
+Industrial Designer: {vocalsound}
+User Interface: Yeah , maybe it has some colourful patches , yeah .
+Marketing: {vocalsound}
+Project Manager: {vocalsound} {gap} the other legs are on the other side .
+User Interface: Um yeah and I do like dogs because they are good friends to people and they are loyal . Mm , well that's compared to some other animals like cats . Um they're really much more fun because they are not so independent .
+Project Manager: {vocalsound}
+User Interface: Um yeah maybe maybe the fact that they protect their home as well , yeah . Um what it has to do with with my role in the project is hard to say .
+Project Manager: {vocalsound}
+User Interface: Uh I hope to be loyal to the project
+Industrial Designer: {vocalsound}
+Marketing: {vocalsound}
+User Interface: and not to n not to um let people doing similar projects know the details of our project or something , {vocalsound} yeah .
+Industrial Designer: {vocalsound}
+Project Manager: And where where are you from ?
+User Interface: I'm from Estonia
+Project Manager: Estonia .
+User Interface: uh , yep . Um so is there anything else you'd like to know ? Oh , right , my roles ,
+Industrial Designer: {gap} .
+User Interface: um so um in the different um {vocalsound} stages of the design , so at first I will be responsible for um for {vocalsound} yeah , designing the technical functions of the um {vocalsound} um of the remote control uh then in the in the conceptual design stage I need to um come up with uh interface concept and then in the last um stage I will be responsible for the int infa for the user interface design .
+Industrial Designer: {gap} .
+User Interface: {vocalsound} Okay , that's it . {vocalsound}
+Industrial Designer: Thank you . Okay {vocalsound} um {vocalsound} I'll do some {disfmarker} I'll rub the features
+Project Manager: {vocalsound}
+Industrial Designer: and let the drawing stay . {vocalsound} 'Kay um my name is Gaurav . Um {vocalsound} my favourite animal {disfmarker} one of my favourite animals is a cow . I've got no idea how to draw a cow .
+Marketing: {vocalsound}
+Project Manager: {vocalsound} Good luck .
+User Interface: {vocalsound}
+Industrial Designer: {vocalsound} Uh this is going to be {disfmarker}
+Marketing: They're not just like a big round body and then some really skinny legs
+Industrial Designer: Yeah , that'll do .
+Marketing: and then just some horns .
+Industrial Designer: Okay , so let let me draw the body first .
+Marketing: {vocalsound}
+Project Manager: Mm .
+Industrial Designer: Big , round body , really skinny legs {vocalsound}
+Marketing: {vocalsound}
+Project Manager: {vocalsound}
+Industrial Designer: and they've got a long tail
+Marketing: {vocalsound}
+Industrial Designer: and a long face . {vocalsound}
+Marketing: {vocalsound}
+Project Manager: {vocalsound} It's eating .
+User Interface: {vocalsound}
+Marketing: It looks like Eeyore . {vocalsound}
+Industrial Designer: And there is some grass there .
+Marketing: {vocalsound}
+Project Manager: Yeah . {vocalsound}
+Industrial Designer: {vocalsound} {vocalsound} So this is what I like about {vocalsound} cows {vocalsound}
+Marketing: {vocalsound} Horns ,
+Project Manager: {vocalsound}
+User Interface: {vocalsound}
+Industrial Designer: that they just keeps sitting there eating grass ,
+Marketing: draw some horns . {vocalsound}
+Industrial Designer: they do not disturb anybody um
+Marketing: {vocalsound}
+Project Manager: {vocalsound}
+Industrial Designer: they're kind of Buddhist in a way . {vocalsound}
+Project Manager: {vocalsound}
+Industrial Designer: So yeah , I like cows . {vocalsound} Um {vocalsound} my my role in the project is um uh the industrial designer , so I'm supposed to design all the details of of the product um ho how it works and whatever it'll mm take during the functional role , what are the various functions that have to be performed by it uh during the um conceptual design , what are the various components of it and um finally , I'm not too sure what was the last part . Um the detailed design , I I guess it will again be the identification of the components and how they integrate with each other . Um I'm from India . Uh I'm doing my P_H_D_ in Psycholinguistics , I sit at the Department of Psychology . {vocalsound} Yeah . Thank you .
+Project Manager: Excellent .
+User Interface: {vocalsound} Thanks .
+Project Manager: Right , now now it's my turn obviously . {vocalsound}
+Industrial Designer: That doesn't look like a cow , does it ? {vocalsound}
+Project Manager: Okay , here's a space .
+Marketing: {vocalsound}
+User Interface: {vocalsound} It looks very very cute .
+Project Manager: Yeah , I like the cow .
+Industrial Designer: {gap}
+Project Manager: I'm Jen .
+User Interface: Yeah . Mm-hmm .
+Project Manager: Um I like dogs too , but I can't do that already because I can't draw a dog as well as you can .
+User Interface: {vocalsound}
+Project Manager: I like {disfmarker} Mm .
+Marketing: Is that a lizard ?
+Industrial Designer: No way . {vocalsound}
+User Interface: {vocalsound}
+Project Manager: Hmm .
+User Interface: Wow .
+Project Manager: It's a gecko .
+Industrial Designer: Ah okay .
+User Interface: Ah , a gecko , okay .
+Project Manager: Yeah .
+Marketing: Is there a difference ?
+User Interface: Is {disfmarker} a ar are they also like lizards or are they {disfmarker}
+Project Manager: They're {disfmarker} Yeah , they're l it's a kind of lizard .
+User Interface: yeah , they are
+Project Manager: And I I like geckos
+User Interface: {disfmarker} mm-hmm .
+Project Manager: because they remind me of warm places {vocalsound}
+Industrial Designer: Uh-huh .
+Project Manager: and , and where I was living in Cambodia they used to live in my house
+User Interface: Ah . {vocalsound}
+Marketing: {vocalsound}
+Project Manager: and they were on the ceiling and they would make little gecko noises in the evening .
+User Interface: Mm-hmm .
+Industrial Designer: {vocalsound}
+User Interface: I hope you don't like snakes , do you ?
+Project Manager: I don't like snakes . I come from Australia
+User Interface: Okay . {vocalsound}
+Project Manager: and we have nasty snakes . That's where I'm from , Australia .
+User Interface: Mm-hmm .
+Project Manager: I'm from Melbourne and I'm your Project Manager for today
+Industrial Designer: Mm .
+Project Manager: and my role is basically to keep things going and make sure that you all work together in a productive way , so that by the end of the day we come up with a great product .
+User Interface: Wonderful .
+Project Manager: {vocalsound} Okay .
+Industrial Designer: Thank you .
+Project Manager: {vocalsound} So , let's see what's next in the PowerPoint presentation . So , I've just thought {disfmarker}
+Marketing: If you right click on it you can {disfmarker}
+Project Manager: yeah I've just thought about this that we could even put it much more professionally {vocalsound} as {disfmarker}
+Marketing: {vocalsound}
+Industrial Designer: Mm-hmm .
+User Interface: {vocalsound}
+Project Manager: there we go . Okay , so this is the um overall budget for our project . We've got {disfmarker} um we're planning to sell these remote controls for {disfmarker} let's make that go away , that means we've got five minutes . Um we're planning to sell the remote controls for twenty five Euros each . Um and with that we're aiming for a profit of fifty million Euros . And that's selling them on the international market , not just in the U_K_ . Um so to do that our finance people estimate that we need production costs of maximum twelve and a half Euro so that we can reach that profit target . So that's something to keep in mind while you're designing . Okay . Hmm . This is {disfmarker} let me just skip ahead to see {disfmarker} that's the last thing , okay . We've only got a couple of minutes . Does anyone have any first ideas to bounce around about um what we're thinking of this remote control ?
+User Interface: Yep . I'm just wondering whether whether there is like any special feature that we want to have {disfmarker} w want this remote control have as opposed to the already existing ones .
+Project Manager: Mm-hmm . I think that's probably something that w it's best if we take away with us ,
+Industrial Designer: Mm-hmm .
+Project Manager: but if we all have a think , when we go away from the meeting , what specific things could be um included in this remote control that that {vocalsound} are out of the ordinary .
+Industrial Designer: {vocalsound} I think uh i in the beginning uh one thing was {disfmarker} that was mentioned was that it should be mm trendy , user friendly and original so um I think your point is relevant as far as the originality is concerned , that we should provide some features that are quite unique to this .
+Project Manager: Something something new .
+Marketing: Yeah , I was looking at the website ,
+Industrial Designer: Mm .
+Marketing: and the other things that they've made and I like put down some like inspirational words like that I got from looking at the pictures . So the motto is um we put the fashion in electronics
+Project Manager: Mm-hmm .
+Marketing: and um so it's something that is sleek and stylish but it's still functional , you know ?
+Project Manager: Mm-hmm .
+Marketing: So I'm kind of thinking , you know like those phones that they have , the new generation ones , where they don't actually have any buttons on them and stuff like that .
+Industrial Designer: Alright .
+Project Manager: Uh-huh .
+Marketing: You know , so something heading towards that , so it's not overly {disfmarker} I mean I don't know what h most of the buttons do on my remote controls , so I figure how many do you need , you know ?
+Project Manager: Mm-hmm .
+Industrial Designer: Mm .
+Marketing: Okay .
+Project Manager: So perhaps some sort of menu-based thing , or {disfmarker}
+Industrial Designer: {vocalsound}
+Marketing: Something that's a little less crowded than this , like I mean you know , theoretically you can do all kinds of things with your T_V_ , right ?
+Project Manager: Mm-hmm .
+Marketing: But what do most people do ?
+Project Manager: Yeah .
+Marketing: They turn it on , they watch certain specified channels , you know , and then they turn it off again .
+Industrial Designer: Yeah .
+Project Manager: {vocalsound} Yeah .
+Industrial Designer: {vocalsound} There is a lot of functionality in there that is not used ninety percent of the time ,
+Marketing: Sometimes they play a movie .
+Industrial Designer: but will be used ten percent of the time , yeah .
+Marketing: Yeah , so
+Project Manager: Yeah .
+Marketing: there's no need to have buttons on it to do that ,
+Project Manager: So , no .
+Marketing: maybe to do {disfmarker}
+Industrial Designer: Yep .
+Project Manager: It could be one button for a menu or something , if you really need to go and do that .
+Marketing: Yeah .
+Industrial Designer: And then use the {disfmarker}
+User Interface: Mm-hmm .
+Marketing: So , if you're the kind of sad case that knows how your remote control works , then you know that's fine
+Project Manager: {vocalsound}
+Industrial Designer: Mm .
+Marketing: and you can do it on the screen rather than everybody else having to have those buttons , which just confuse them . {vocalsound}
+Project Manager: Mm-hmm .
+Marketing: Hmm .
+Project Manager: Excellent .
+Marketing: 'Cause like if you look at the train , it's just very like , there's no extra bits on it , the train on the website and I dunno if you can put it up on the thing
+Project Manager: Oh I haven't had a look yet , yep .
+Marketing: um but it is just like a long like thing used for mu moving people , but it looks really pretty too .
+Project Manager: Mm-hmm .
+Industrial Designer: {gap}
+Project Manager: Great . Any other immediate thoughts before we move along ?
+Industrial Designer: Mm . {vocalsound} Uh we can aim for {disfmarker} I mean we can think about all these little things , but we can aim for something wi that gives a high battery life , although I don't think that um it's a huge problem for remote controls anyway , battery life ,
+Project Manager: Mm-hmm .
+Industrial Designer: uh every now and then you need to replace the batteries . Um {disfmarker}
+Project Manager: Yeah .
+Industrial Designer: Hmm .
+User Interface: Yeah but uh I mean e even though it has to be re original we shouldn't uh go like too far away from from the usual ones , because otherwise the new users will just have a lot of problems
+Industrial Designer: Yeah . A big learning curve , yeah .
+User Interface: with l {vocalsound} learning , yeah , yeah .
+Project Manager: Mm-hmm .
+Industrial Designer: Yeah . So , i it should kind of fit in as well , and the stereotype of a {disfmarker}
+Project Manager: It's like those fancy websites that you can't access
+Industrial Designer: yeah .
+User Interface: Hm-hmm .
+Project Manager: because you have no idea how to get in , but the designers thought they were great . Okay , so we need to wrap it up now , so that we can go away and get on with some of this . Um {vocalsound} we've got another meeting in thirty minutes , so you're {disfmarker} you'll be getting specific instructions once you go back to your workspace , but im basically you're looking at the working design ,
+Industrial Designer: {vocalsound} Alright .
+Project Manager: you're looking at the technical functions design , and for you it's the user requirements specification ,
+Marketing: Mm-hmm .
+Project Manager: like you said at the start . Okay ? Thanks for that .
+User Interface: Okay . {vocalsound} Thank you .
+Project Manager: Uh I'll see you in half an hour .
+Industrial Designer: {vocalsound} .
+User Interface: {vocalsound} See you .
+Project Manager: Carry the laptops back again .
+Industrial Designer: Hmm .
+Project Manager: Do we need to unplug things ? Probably .
+
+Query:
+What are the target price, target cost and target profit of remote control when discussing the design of the remote control?
+
+Answer:
