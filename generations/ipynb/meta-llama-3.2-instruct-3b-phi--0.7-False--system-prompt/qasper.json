@@ -1,0 +1,21 @@
+{
+    "3fad42be0fb2052bb404b989cc7d58b440cd23a0": "Unif and Stopword.",
+    "8bf7f1f93d0a2816234d36395ab40c481be9a0e0": "No, the article does not analyze transformer-based architectures.",
+    "0f12dc077fe8e5b95ca9163cea1dd17195c96929": "The sentences were generated using eleven sentence templates, each with two variables: one for the person (male or female) and one for the emotion word. The templates were instantiated with pre-chosen values for the variables, resulting in 8,640 unique sentences.",
+    "518dae6f936882152c162058895db4eca815e649": "The article does not explicitly state the number of layers in the UTCNN model.",
+    "58ef2442450c392bfc55c4dc35f216542f5f2dbb": "The paper mentions that Macaw supports Wizard of Oz studies or intermediary-based information seeking studies, and that the intermediary performs different information actions with the system, which can simulate an ideal CIS system and collect high-quality data from real users for CIS research.",
+    "290ee79b5e3872e0496a6a0fc9b103ab7d8f6c30": "The three levels of the annotation scheme are: \n\n1. Level A: Offensive language detection (OFF vs. NOT)\n2. Level B: Categorization of Offensive Language (type, with labels: targeted (TIN) and untargeted (UNT) insults and threats)\n3. Level C: Offensive Language Target Identification (target, with labels: individual (IND), group (GRP), and others (OTH))",
+    "ab9b0bde6113ffef8eb1c39919d21e5913a05081": "The results show that error detection performance is substantially improved by making use of artificially generated data, created by any of the described methods.",
+    "ff338921e34c15baf1eae0074938bf79ee65fdd2": "BioBERT",
+    "1b1a30e9e68a9ae76af467e60cefb180d135e285": "The dataset comprises a total of 353 conversations from 40 speakers.",
+    "dea9e7fe8e47da5e7f31d9b1a46ebe34e731a596": "Support vector machine with radial basis function kernel.",
+    "3355918bbdccac644afe441f085d0ffbbad565d7": "The supervised scores of the words are calculated as the average of the minimum, maximum, and average sentiment scores of the words in their contexts.",
+    "d9980676a83295dda37c20cfd5d58e574d0a4859": "Several data simulation techniques were introduced, including: back-translation (BT), copying the target side, copy-marked setup, copy-dummies, and Generative Adversarial Networks (GANs).",
+    "79a44a68bb57b375d8a57a0a7f522d33476d9f33": "Content Selection (CS), Content Ordering (CO), and Recall (P%)",
+    "76ed74788e3eb3321e646c48ae8bf6cdfe46dca1": "The article mentions the following linguistics features used in the proposed diacritization models:\n\n1. Morphological features (e.g., stem-templates, prefixes, and suffixes)\n2. Syntactic features (e.g., POS tags, gender, and number features)\n3. Semantic features (e.g., bigram language model)\n4. Surface features (e.g., character-level features, word surface forms, and word stems)\n5. Case features (e.g., sukun, fatHa, damma, and sukun)\n6. Affix features (e.g., attached pronouns and gender and number markers)\n7. Named entity recognition features (e.g., detection of non-Arabized foreign names)\n8. Dependency parsing features (e.g., to handle semantic errors)",
+    "8e52637026bee9061f9558178eaec08279bf7ac6": "The training data was translated using the machine translation platform Apertium.",
+    "3116453e35352a3a90ee5b12246dc7f2e60cfc59": "The proposed model is compared with traditional models (TF-IDF) and neural models (LSTM with self-attention and CNN).",
+    "4e748cb2b5e74d905d9b24b53be6cfdf326e8054": "Unanswerable",
+    "b970f48d30775d3468952795bc72976baab3438e": "unanswerable",
+    "c70bafc35e27be9d1efae60596bc0dd390c124c0": "No"
+}

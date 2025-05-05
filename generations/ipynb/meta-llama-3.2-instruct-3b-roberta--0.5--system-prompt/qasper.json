@@ -1,0 +1,21 @@
+{
+    "3fad42be0fb2052bb404b989cc7d58b440cd23a0": "52.16% accurate, 77.37% retention",
+    "8bf7f1f93d0a2816234d36395ab40c481be9a0e0": "No, the article does not mention transformer-based architectures.",
+    "0f12dc077fe8e5b95ca9163cea1dd17195c96929": "The 8,640 English sentences were generated using eleven templates, each with a specific emotion and word set, and were manually examined to ensure grammatical correctness.",
+    "518dae6f936882152c162058895db4eca815e649": "The article does not explicitly state the number of layers in the UTCNN model.",
+    "58ef2442450c392bfc55c4dc35f216542f5f2dbb": "Yes, the paper describes Macaw's high-level architecture and its support for various tasks, including conversational search, question answering, and recommendation, but it does not provide specific case studies.",
+    "290ee79b5e3872e0496a6a0fc9b103ab7d8f6c30": "The annotation scheme has three levels: Level A, Level B, and Level C.",
+    "ab9b0bde6113ffef8eb1c39919d21e5913a05081": "They reported improved error detection performance on both the FCE and CoNLL 2014 datasets.",
+    "ff338921e34c15baf1eae0074938bf79ee65fdd2": "The baseline model used in the experiments was the SQuAD model.",
+    "1b1a30e9e68a9ae76af467e60cefb180d135e285": "The dataset consists of 1,200 turns of conversation, with 41 hours of sampled conversation data.",
+    "dea9e7fe8e47da5e7f31d9b1a46ebe34e731a596": "The baseline classification uses a Bag-of-words approach.",
+    "3355918bbdccac644afe441f085d0ffbbad565d7": "The supervised scores of the words are calculated by multiplying each word vector with a supervised score, which is a polarity score per word calculated from the training data, and then normalizing the result to ensure that the scores are between -1 and 1.",
+    "d9980676a83295dda37c20cfd5d58e574d0a4859": "Back-Translation, pseudo-source generation, and Generative Adversarial Networks (GANs) were introduced as data simulation techniques.",
+    "79a44a68bb57b375d8a57a0a7f522d33476d9f33": "BLEU score",
+    "76ed74788e3eb3321e646c48ae8bf6cdfe46dca1": "surface morphological syntactic features",
+    "8e52637026bee9061f9558178eaec08279bf7ac6": "The training data was translated from English to Spanish using Apertium machine translation tools, except for the SentiStrength lexicon, which was not translated.",
+    "3116453e35352a3a90ee5b12246dc7f2e60cfc59": "The proposed model is compared to baseline models including TF-IDF, Naive Bayes, and LSTM models.",
+    "4e748cb2b5e74d905d9b24b53be6cfdf326e8054": "lexical, implicit, explicit incongruity",
+    "b970f48d30775d3468952795bc72976baab3438e": "They tackle issues related to the limitations of computational text analysis, such as the problem of spurious features, the need for interpretability, and the challenge of capturing nuances of human language and culture, as well as the potential for biases in machine learning models and the importance of human judgment and expertise in the analysis process.",
+    "c70bafc35e27be9d1efae60596bc0dd390c124c0": "No"
+}
